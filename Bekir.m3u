@@ -1,0 +1,1539 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TR: TRT 1 HD+" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0O_65.png" group-title="TR | ULUSAL",TR: TRT 1 HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=229&extension=m3u8
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TR: TRT 1 HD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0O_66.png" group-title="TR | ULUSAL",TR: TRT 1 HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=214&extension=m3u8
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TR: TRT 4K UHD 2160p" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0O_64.png" group-title="TR | ULUSAL",TR: TRT 4K UHD 2160p
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=245&extension=m3u8
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TR: TRT 4K" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0O_64.png" group-title="TR | ULUSAL",TR: TRT 4K
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=244&extension=m3u8
+#EXTINF:-1 tvg-id="trt2.tr" tvg-name="TR: TRT 2 HD+" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0N_1555.png" group-title="TR | ULUSAL",TR: TRT 2 HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=215&extension=m3u8
+#EXTINF:-1 tvg-id="trtavaz.tr" tvg-name="TR: TRT AVAZ HD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_282.png" group-title="TR | ULUSAL",TR: TRT AVAZ HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=110475&extension=m3u8
+#EXTINF:-1 tvg-id="trtturk.tr" tvg-name="TR: TRT TURK HD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0O_345.png" group-title="TR | ULUSAL",TR: TRT TURK HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=110478&extension=m3u8
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR: ATV HD+" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0N_1533.png" group-title="TR | ULUSAL",TR: ATV HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=231&extension=m3u8
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR: ATV HD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0N_1535.png" group-title="TR | ULUSAL",TR: ATV HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=217&extension=m3u8
+#EXTINF:-1 tvg-id="startv.tr" tvg-name="TR: STAR TV HD+" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0N_1537.png" group-title="TR | ULUSAL",TR: STAR TV HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=232&extension=m3u8
+#EXTINF:-1 tvg-id="startv.tr" tvg-name="TR: STAR TV HD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0N_1536.png" group-title="TR | ULUSAL",TR: STAR TV HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=224&extension=m3u8
+#EXTINF:-1 tvg-id="showtv.tr" tvg-name="TR: SHOW TV HD+" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0N_1529.png" group-title="TR | ULUSAL",TR: SHOW TV HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=233&extension=m3u8
+#EXTINF:-1 tvg-id="showtv.tr" tvg-name="TR: SHOW TV HD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0N_1528.png" group-title="TR | ULUSAL",TR: SHOW TV HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=223&extension=m3u8
+#EXTINF:-1 tvg-id="showtv.tr" tvg-name="TR: SHOW TURK HD+" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_283.png" group-title="TR | ULUSAL",TR: SHOW TURK HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=209141&extension=m3u8
+#EXTINF:-1 tvg-id="kanald.tr" tvg-name="TR: KANAL D HD+" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0N_1530.png" group-title="TR | ULUSAL",TR: KANAL D HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=230&extension=m3u8
+#EXTINF:-1 tvg-id="kanald.tr" tvg-name="TR: KANAL D HD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0N_1532.png" group-title="TR | ULUSAL",TR: KANAL D HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=225&extension=m3u8
+#EXTINF:-1 tvg-id="fox.tr" tvg-name="TR: FOX TV HD+" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0N_1538.png" group-title="TR | ULUSAL",TR: FOX TV HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=234&extension=m3u8
+#EXTINF:-1 tvg-id="fox.tr" tvg-name="TR: FOX TV HD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0N_1539.png" group-title="TR | ULUSAL",TR: FOX TV HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=218&extension=m3u8
+#EXTINF:-1 tvg-id="tv8.tr" tvg-name="TR: TV 8 HD+" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0N_1540.png" group-title="TR | ULUSAL",TR: TV 8 HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=251&extension=m3u8
+#EXTINF:-1 tvg-id="tv8.tr" tvg-name="TR: TV 8 HD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0N_1541.png" group-title="TR | ULUSAL",TR: TV 8 HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=221&extension=m3u8
+#EXTINF:-1 tvg-id="tv85.tr" tvg-name="TR: TV 8.5 HD+" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0O_62.png" group-title="TR | ULUSAL",TR: TV 8.5 HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=236&extension=m3u8
+#EXTINF:-1 tvg-id="tv85.tr" tvg-name="TR: TV 8.5 HD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0O_63.png" group-title="TR | ULUSAL",TR: TV 8.5 HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=222&extension=m3u8
+#EXTINF:-1 tvg-id="tv85.tr" tvg-name="TR: TV 8.5" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv85_tr.png" group-title="TR | ULUSAL",TR: TV 8.5
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=212&extension=m3u8
+#EXTINF:-1 tvg-id="a2tv.tr" tvg-name="TR: A2 HD+" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0N_1548.png" group-title="TR | ULUSAL",TR: A2 HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=227&extension=m3u8
+#EXTINF:-1 tvg-id="a2tv.tr" tvg-name="TR: A2 HD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0N_1549.png" group-title="TR | ULUSAL",TR: A2 HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=216&extension=m3u8
+#EXTINF:-1 tvg-id="beyaztv.tr" tvg-name="TR: BEYAZ TV HD+" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0N_1544.png" group-title="TR | ULUSAL",TR: BEYAZ TV HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=237&extension=m3u8
+#EXTINF:-1 tvg-id="beyaztv.tr" tvg-name="TR: BEYAZ TV HD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0N_1545.png" group-title="TR | ULUSAL",TR: BEYAZ TV HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219&extension=m3u8
+#EXTINF:-1 tvg-id="kanal7.tr" tvg-name="TR: KANAL 7 HD+" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0N_1553.png" group-title="TR | ULUSAL",TR: KANAL 7 HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=238&extension=m3u8
+#EXTINF:-1 tvg-id="kanal7.tr" tvg-name="TR: KANAL 7 HD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0N_1554.png" group-title="TR | ULUSAL",TR: KANAL 7 HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=220&extension=m3u8
+#EXTINF:-1 tvg-id="kanal7.tr" tvg-name="TR: KANAL 7 AVRUPA HD+" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0N_1559.png" group-title="TR | ULUSAL",TR: KANAL 7 AVRUPA HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=70887&extension=m3u8
+#EXTINF:-1 tvg-id="teve2.tr" tvg-name="TR: TEVE 2 HD+" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0N_1546.png" group-title="TR | ULUSAL",TR: TEVE 2 HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=257&extension=m3u8
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: TEVE 2 HD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0N_1547.png" group-title="TR | ULUSAL",TR: TEVE 2 HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=226&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TGRT EU HD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_286.png" group-title="TR | ULUSAL",TR: TGRT EU HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=110477&extension=m3u8
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR: ATV AVRUPA" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0N_1558.png" group-title="TR | ULUSAL",TR: ATV AVRUPA
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=240&extension=m3u8
+#EXTINF:-1 tvg-id="showmax.tr" tvg-name="TR: SHOW MAX HD+" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_287.png" group-title="TR | ULUSAL",TR: SHOW MAX HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=239&extension=m3u8
+#EXTINF:-1 tvg-id="startv.tr" tvg-name="TR: EURO STAR" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_285.png" group-title="TR | ULUSAL",TR: EURO STAR
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=241&extension=m3u8
+#EXTINF:-1 tvg-id="kanald.tr" tvg-name="TR: EURO D" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_284.png" group-title="TR | ULUSAL",TR: EURO D
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=213&extension=m3u8
+#EXTINF:-1 tvg-id="tv8.tr" tvg-name="TR: TV 8 INT" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0N_1557.png" group-title="TR | ULUSAL",TR: TV 8 INT
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=242&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Vatan TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/vatan-tv-tr.png" group-title="TR | ULUSAL",TR: Vatan TV
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=5147&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: FLASH HD+" tvg-logo="https://img.gercekgundem.com/rcman/Cw820h461q95gc/images/posts/201810/51887_814x458.jpg" group-title="TR | ULUSAL",TR: FLASH HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=179606&extension=m3u8
+#EXTINF:-1 tvg-id="trtebatvilkokul.tr" tvg-name="TR: TRT EBATV İLKOKUL" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eba-tv-ilkokul-tr.png" group-title="TR | ULUSAL",TR: TRT EBATV İLKOKUL
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=53899&extension=m3u8
+#EXTINF:-1 tvg-id="trtebatvortaokul.tr" tvg-name="TR: TRT EBATV ORTAOKUL" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eba-tv-ortaokul-tr.png" group-title="TR | ULUSAL",TR: TRT EBATV ORTAOKUL
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=53900&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT EBATV LİSE" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eba-tv-ortaokul-tr.png" group-title="TR | ULUSAL",TR: TRT EBATV LİSE
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=53901&extension=m3u8
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: 360 HD+" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0N_1550.png" group-title="TR | ULUSAL",TR: 360 HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=254&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV NET HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv_net_tr.png" group-title="TR | ULUSAL",TR: TV NET HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=256&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV 4 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv4_tr.png" group-title="TR | ULUSAL",TR: TV 4 HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=258&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: BİZİMEV TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bizimev-tv-tr.png" group-title="TR | ULUSAL",TR: BİZİMEV TV
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=70131&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: AKILLI TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/akilli_tv_tr.png" group-title="TR | ULUSAL",TR: AKILLI TV
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=5372&extension=m3u8
+#EXTINF:-1 tvg-id="ssport.tr" tvg-name="TR: S-SPORT 1 HD+" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0Z_98.png" group-title="TR | S-SPORT",TR: S-SPORT 1 HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=305&extension=m3u8
+#EXTINF:-1 tvg-id="ssport.tr" tvg-name="TR: S-SPORT 1 HD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0Z_98.png" group-title="TR | S-SPORT",TR: S-SPORT 1 HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=294&extension=m3u8
+#EXTINF:-1 tvg-id="ssport.tr" tvg-name="TR: S-SPORT 1 SD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0Z_98.png" group-title="TR | S-SPORT",TR: S-SPORT 1 SD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=271&extension=m3u8
+#EXTINF:-1 tvg-id="ssport2.tr" tvg-name="TR: S-SPORT 2 HD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0Z_99.png" group-title="TR | S-SPORT",TR: S-SPORT 2 HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=116073&extension=m3u8
+#EXTINF:-1 tvg-id="ssport.tr" tvg-name="TR: S-SPORT 2 HD+" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0Z_99.png" group-title="TR | S-SPORT",TR: S-SPORT 2 HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=295&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: S Sport+1 Mac Saati" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0Z_100.png" group-title="TR | S-SPORT",TR: S Sport+1 Mac Saati
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=125105&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: S Sport+2 Mac Saati" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0Z_100.png" group-title="TR | S-SPORT",TR: S Sport+2 Mac Saati
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=125106&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: S Sport+3 Mac Saati" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0Z_100.png" group-title="TR | S-SPORT",TR: S Sport+3 Mac Saati
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=125107&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: S Sport+4 Mac Saati" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0Z_100.png" group-title="TR | S-SPORT",TR: S Sport+4 Mac Saati
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=125108&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: S Sport+5 Mac Saati" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0Z_100.png" group-title="TR | S-SPORT",TR: S Sport+5 Mac Saati
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=275452&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TiViBUSPOR HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Tivibu_Spor_TR_logo.png" group-title="TR | TIVIBU SPOR",TR: TiViBUSPOR HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=125109&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TiViBUSPOR 1 HD+" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0Z_102.png" group-title="TR | TIVIBU SPOR",TR: TiViBUSPOR 1 HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=298&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBUSPOR 1 HD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0Z_102.png" group-title="TR | TIVIBU SPOR",TR: TIVIBUSPOR 1 HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=268&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TiViBUSPOR 2 HD+" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0Z_103.png" group-title="TR | TIVIBU SPOR",TR: TiViBUSPOR 2 HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=299&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBUSPOR 2 HD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0Z_103.png" group-title="TR | TIVIBU SPOR",TR: TIVIBUSPOR 2 HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=269&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TiViBUSPOR 3 HD+" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0Z_104.png" group-title="TR | TIVIBU SPOR",TR: TiViBUSPOR 3 HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=300&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBUSPOR 3 HD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0Z_104.png" group-title="TR | TIVIBU SPOR",TR: TIVIBUSPOR 3 HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=270&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBUSPOR 4(maczamani)" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0Z_105.png" group-title="TR | TIVIBU SPOR",TR: TIVIBUSPOR 4(maczamani)
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=182418&extension=m3u8
+#EXTINF:-1 tvg-id="aspor.tr" tvg-name="TR: A SPOR HD+" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_330.png" group-title="TR | SPORT",TR: A SPOR HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=284&extension=m3u8
+#EXTINF:-1 tvg-id="aspor.tr" tvg-name="TR: A SPOR HD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_331.png" group-title="TR | SPORT",TR: A SPOR HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=280&extension=m3u8
+#EXTINF:-1 tvg-id="trtspor.tr" tvg-name="TR: TRT SPOR HD+" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_328.png" group-title="TR | SPORT",TR: TRT SPOR HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=283&extension=m3u8
+#EXTINF:-1 tvg-id="trtspor.tr" tvg-name="TR: TRT SPOR HD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_329.png" group-title="TR | SPORT",TR: TRT SPOR HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=281&extension=m3u8
+#EXTINF:-1 tvg-id="trtspor2.tr" tvg-name="TR: TRT SPOR YILDIZ HD+" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_327.png" group-title="TR | SPORT",TR: TRT SPOR YILDIZ HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=114887&extension=m3u8
+#EXTINF:-1 tvg-id="trtspor.tr" tvg-name="TR: TRT SPOR YILDIZ HD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_326.png" group-title="TR | SPORT",TR: TRT SPOR YILDIZ HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=282&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 3 SPOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/TRT_3-Spor_kurumsal_logo.png/1920px-TRT_3-Spor_kurumsal_logo.png" group-title="TR | SPORT",TR: TRT 3 SPOR
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=114885&extension=m3u8
+#EXTINF:-1 tvg-id="smartspor.tr" tvg-name="TR: SPORT SMART 1 HD++" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_320.png" group-title="TR | SPORT",TR: SPORT SMART 1 HD++
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=297&extension=m3u8
+#EXTINF:-1 tvg-id="smartspor.tr" tvg-name="TR: SPORT SMART 1 HD+" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_320.png" group-title="TR | SPORT",TR: SPORT SMART 1 HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=301&extension=m3u8
+#EXTINF:-1 tvg-id="smartspor.tr" tvg-name="TR: SPORT SMART 1 HD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_321.png" group-title="TR | SPORT",TR: SPORT SMART 1 HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=302&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: SPOR SMART HD 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Smart-spor_635084424044881793.png" group-title="TR | SPORT",TR: SPOR SMART HD 1
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=272&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: SPOR SMART 1 SD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_321.png" group-title="TR | SPORT",TR: SPOR SMART 1 SD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=124764&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: SPOR SMART 2 HD+" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_318.png" group-title="TR | SPORT",TR: SPOR SMART 2 HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=69715&extension=m3u8
+#EXTINF:-1 tvg-id="nbatv.tr" tvg-name="TR: NBA TV HD+" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_311.png" group-title="TR | SPORT",TR: NBA TV HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=296&extension=m3u8
+#EXTINF:-1 tvg-id="nbatv.tr" tvg-name="TR: NBA TV HD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_311.png" group-title="TR | SPORT",TR: NBA TV HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=274&extension=m3u8
+#EXTINF:-1 tvg-id="eurosport1.tr" tvg-name="TR: EUROSPORT 1 HD+" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_314.png" group-title="TR | SPORT",TR: EUROSPORT 1 HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=275&extension=m3u8
+#EXTINF:-1 tvg-id="eurosport2.tr" tvg-name="TR: EUROSPORT 2 HD+" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_312.png" group-title="TR | SPORT",TR: EUROSPORT 2 HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=276&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: FB TV HD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_325.png" group-title="TR | SPORT",TR: FB TV HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=259&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: GS TV HD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_322.png" group-title="TR | SPORT",TR: GS TV HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=277&extension=m3u8
+#EXTINF:-1 tvg-id="sportstv.tr" tvg-name="TR: SPORTSTV HD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_317.png" group-title="TR | SPORT",TR: SPORTSTV HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=278&extension=m3u8
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: TJK TV HD+" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_309.png" group-title="TR | SPORT",TR: TJK TV HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=279&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: E-X-X-E-N 1 FEED (maczamani)" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0Z_96.png" group-title="TR | E-X-X-E-N SPORT",TR: E-X-X-E-N 1 FEED (maczamani)
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=179671&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: E-X-X-E-N 1 HD+ (maczamani)" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0Z_96.png" group-title="TR | E-X-X-E-N SPORT",TR: E-X-X-E-N 1 HD+ (maczamani)
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=125020&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: E-X-X-E-N 1 Plus+ (maczamani)" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0Z_96.png" group-title="TR | E-X-X-E-N SPORT",TR: E-X-X-E-N 1 Plus+ (maczamani)
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=207893&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: E-X-X-E-N 2 HD+ (maczamani)" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0Z_96.png" group-title="TR | E-X-X-E-N SPORT",TR: E-X-X-E-N 2 HD+ (maczamani)
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=125073&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: E-X-X-E-N 3 HD+ (maczamani)" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0Z_96.png" group-title="TR | E-X-X-E-N SPORT",TR: E-X-X-E-N 3 HD+ (maczamani)
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=125857&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: E-X-X-E-N 4 HD+ (maczamani)" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0Z_96.png" group-title="TR | E-X-X-E-N SPORT",TR: E-X-X-E-N 4 HD+ (maczamani)
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=141719&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: E-X-X-E-N 5 HD+ (maczamani)" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0Z_96.png" group-title="TR | E-X-X-E-N SPORT",TR: E-X-X-E-N 5 HD+ (maczamani)
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=141720&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: E-X-X-E-N 6 HD+ (maczamani)" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0Z_96.png" group-title="TR | E-X-X-E-N SPORT",TR: E-X-X-E-N 6 HD+ (maczamani)
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=141721&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: E-X-X-E-N 7 HD+ (maczamani)" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0Z_96.png" group-title="TR | E-X-X-E-N SPORT",TR: E-X-X-E-N 7 HD+ (maczamani)
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=141923&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: E-X-X-E-N 8 HD+ (maczamani)" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0Z_96.png" group-title="TR | E-X-X-E-N SPORT",TR: E-X-X-E-N 8 HD+ (maczamani)
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=141924&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX KONUSANLAR (YeniBölümler)" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX KONUSANLAR (YeniBölümler)
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=353319&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX KONUSANLAR" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX KONUSANLAR
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=142089&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Gibi" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX Gibi
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219435&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX MAGARSUS" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX MAGARSUS
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=349712&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX AYAK ISLERI" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX AYAK ISLERI
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=266805&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX House Of Dragon" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX House Of Dragon
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=142087&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Game of Thrones" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX Game of Thrones
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=106608&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX LOTR Guc Yuzukleri" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX LOTR Guc Yuzukleri
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=142124&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX THE LAST OF US" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX THE LAST OF US
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=268849&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX LA CASA DE PAPEL" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX LA CASA DE PAPEL
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=142110&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX TolgShow" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX TolgShow
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219434&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Leyla ile Mecnun" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX Leyla ile Mecnun
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219438&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX KIYMA" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX KIYMA
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=347233&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX S1F1R B1R ADANA" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX S1F1R B1R ADANA
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=124281&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Sokagin Cocuklari" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX Sokagin Cocuklari
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=124282&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Sadece Arkadasiz" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX Sadece Arkadasiz
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219436&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" TR: DIZIAX Sizi Dinliyorum" tvg-logo="" group-title="TR | DIZI 7/24", TR: DIZIAX Sizi Dinliyorum
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219437&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX AYNEN AYNEN" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX AYNEN AYNEN
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=266803&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX CEKIC VE GUL" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX CEKIC VE GUL
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=266804&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX ERSAN KUNERI" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX ERSAN KUNERI
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=114889&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX KARDESLERIM" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX KARDESLERIM
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=260493&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX BEN BU CIHANA SIGMAM" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX BEN BU CIHANA SIGMAM
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=260494&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX YARGI" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX YARGI
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=142109&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX UC KIZ KARDES" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX UC KIZ KARDES
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=260495&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Cukur HD" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX Cukur HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=106604&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DİZİAX Atiye" tvg-logo="" group-title="TR | DIZI 7/24",TR: DİZİAX Atiye
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=106623&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX ASMALI KONAK" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX ASMALI KONAK
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=349650&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX MEDCEZIR" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX MEDCEZIR
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=349649&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Diriliş Ertuğrul" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX Diriliş Ertuğrul
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=142088&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Ask Memnu HD" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX Ask Memnu HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=106605&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Kurtlar Vadisi" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX Kurtlar Vadisi
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=106606&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Kurtlar Vadisi Pusu" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX Kurtlar Vadisi Pusu
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=260506&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Ezel" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX Ezel
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=123359&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX CAMDAKİ KIZ" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX CAMDAKİ KIZ
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=260492&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX UC KURUS" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX UC KURUS
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=260496&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Suskunlar" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX Suskunlar
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=124283&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Behzat Ç" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX Behzat Ç
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=142084&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Kirmizi Oda" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX Kirmizi Oda
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=123361&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Masumlar Apartmani" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX Masumlar Apartmani
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=123360&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX BENIM ADIM MELEK" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX BENIM ADIM MELEK
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=260502&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX AVLU" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX AVLU
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=260503&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX ALEV ALEV" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX ALEV ALEV
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=260505&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX SAKARYA FIRAT" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX SAKARYA FIRAT
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=142185&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Hercai" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX Hercai
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=115460&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX RECEP IVEDIK" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX RECEP IVEDIK
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=142132&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX NICOLAS CAGE" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX NICOLAS CAGE
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=142092&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX BRAD PITT" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX BRAD PITT
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=142093&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX TOM CRUISE" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX TOM CRUISE
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=142094&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX  BRUCE WILLS" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX  BRUCE WILLS
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=142095&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX SYLVESTER STALLONE" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX SYLVESTER STALLONE
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=142096&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX JETLI" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX JETLI
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=142097&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX JASON STATHAM" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX JASON STATHAM
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=142098&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX JACKY CHAN" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX JACKY CHAN
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=142099&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX VAN DAMME" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX VAN DAMME
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=142100&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX CAMERON DIAZ" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX CAMERON DIAZ
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=142101&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX ARNOLD SCHWARZENEGGER" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX ARNOLD SCHWARZENEGGER
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=142102&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX ANGELINE JOLIE" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX ANGELINE JOLIE
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=142103&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX ALPACINO" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX ALPACINO
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=142104&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX BRUCE LEE TV" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX BRUCE LEE TV
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=142126&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX 007 JAMES BOND" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX 007 JAMES BOND
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=142129&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX DAREDEVIL" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX DAREDEVIL
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=142106&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX ROCKY BALBOA" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX ROCKY BALBOA
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=142131&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX HARRY POTTER" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX HARRY POTTER
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=142130&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX ALACAKARANLIK EFSANESI" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX ALACAKARANLIK EFSANESI
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=142133&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX ÖLÜMCÜL DENEY" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX ÖLÜMCÜL DENEY
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=142134&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX HOBBIT TV" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX HOBBIT TV
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=142135&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX BATMAN TV" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX BATMAN TV
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=142138&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX SUPERMAN TV" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX SUPERMAN TV
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=142136&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX ORUMCEK ADAM" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX ORUMCEK ADAM
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=142137&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX KARAYIP KORSANLARI" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX KARAYIP KORSANLARI
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=142139&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX ZOR OLUM" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX ZOR OLUM
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=142140&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX CEHENNEM SILAHI" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX CEHENNEM SILAHI
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=142141&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX SON DURAK" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX SON DURAK
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=142142&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX POLIS AKEDEMISI" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX POLIS AKEDEMISI
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=142143&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX TESTERE SAW" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX TESTERE SAW
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=142144&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX TERMINATOR TV" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX TERMINATOR TV
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=142145&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX X-MEN TV" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX X-MEN TV
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=142146&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX 13.CUMA" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX 13.CUMA
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=142147&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX TRANSFORMERS" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX TRANSFORMERS
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=142148&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX MUMYA" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX MUMYA
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=142149&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX THE BOURNE" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX THE BOURNE
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=142150&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX THE MATRİX" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX THE MATRİX
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=142151&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX STAR TREK" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX STAR TREK
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=142152&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX MAYMUNLAR CEHENEMI" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX MAYMUNLAR CEHENEMI
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=142153&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX ALIEN VS PREDATOR" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX ALIEN VS PREDATOR
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=142154&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX RAMBO" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX RAMBO
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=142155&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX MASKELI BESLER" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX MASKELI BESLER
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=142156&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX CILGIN DERSHANE" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX CILGIN DERSHANE
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=142157&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX KARANLIKLAR ULKESI" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX KARANLIKLAR ULKESI
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=142158&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX IP-MAN" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX IP-MAN
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=142159&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX ICERDE" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX ICERDE
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=260497&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX HATIRLA SEVGILI" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX HATIRLA SEVGILI
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=260498&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX GUZEL KOYLU" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX GUZEL KOYLU
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=260499&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX ELVEDA RUMELI" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX ELVEDA RUMELI
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=260500&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX COCUK" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX COCUK
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=260501&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX ANNE" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX ANNE
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=260504&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Cicek Taxi" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX Cicek Taxi
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=115461&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Bin Bir Gece" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX Bin Bir Gece
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=123358&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Cocuklar Duymasin" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX Cocuklar Duymasin
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=106607&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Yilan Hikayesi" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX Yilan Hikayesi
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=124284&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Sadakatsiz" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX Sadakatsiz
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=124285&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Alemin Kralı" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX Alemin Kralı
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=142085&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Jet Sosyete" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX Jet Sosyete
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=142086&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX EKMEK TEKNESI" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX EKMEK TEKNESI
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=142090&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX DARK" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX DARK
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=142107&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX KOBRA KAİ" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX KOBRA KAİ
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=142128&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX BLACKLIST" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX BLACKLIST
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=142111&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX NARCOS" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX NARCOS
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=142112&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX THE WALKING DEAD" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX THE WALKING DEAD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=142115&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX OZARK" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX OZARK
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=142113&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX PRISON BREAK" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX PRISON BREAK
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=142114&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Stranger Things" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX Stranger Things
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=142116&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX VAN HELSING" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX VAN HELSING
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=142117&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX VIKINGS" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX VIKINGS
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=142118&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX LOST IN SPACE" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX LOST IN SPACE
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=142119&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX LUCIFER" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX LUCIFER
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=142120&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX FLASH" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX FLASH
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=142121&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX ELITE" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX ELITE
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=142122&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX El Chapo" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX El Chapo
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=142123&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Designated Survivor" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX Designated Survivor
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=142127&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX BLINDSPOT" tvg-logo="" group-title="TR | DIZI 7/24",TR: DIZIAX BLINDSPOT
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=142125&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="#### TURK BELGESEL ####" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_422.png" group-title="TR | BELGESEL",#### TURK BELGESEL ####
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=121&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: National Geographic HD+" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_421.png" group-title="TR | BELGESEL",TR: National Geographic HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=17121&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: National Geographic HD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_426.png" group-title="TR | BELGESEL",TR: National Geographic HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=67570&extension=m3u8
+#EXTINF:-1 tvg-id="natgeowild.tr" tvg-name="TR: NAT GEO WILD HD+" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_420.png" group-title="TR | BELGESEL",TR: NAT GEO WILD HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=486&extension=m3u8
+#EXTINF:-1 tvg-id="natgeowild.tr" tvg-name="TR: Nat Geo Wild HD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_425.png" group-title="TR | BELGESEL",TR: Nat Geo Wild HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=67569&extension=m3u8
+#EXTINF:-1 tvg-id="trtbelgesel.tr" tvg-name="TR: TRT BELGESEL HD+" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_408.png" group-title="TR | BELGESEL",TR: TRT BELGESEL HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=485&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT Belgesel HD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_407.png" group-title="TR | BELGESEL",TR: TRT Belgesel HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=67571&extension=m3u8
+#EXTINF:-1 tvg-id="discoverychannel.tr" tvg-name="TR: DISCOVERY CHANNEL HD+" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_419.png" group-title="TR | BELGESEL",TR: DISCOVERY CHANNEL HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=488&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DISCOVERY CHANNEL HD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_424.png" group-title="TR | BELGESEL",TR: DISCOVERY CHANNEL HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=110611&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DISCOVERY SCIENCE HD+" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_417.png" group-title="TR | BELGESEL",TR: DISCOVERY SCIENCE HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=489&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DISCOVERY SCIENCE HD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_423.png" group-title="TR | BELGESEL",TR: DISCOVERY SCIENCE HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=110612&extension=m3u8
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: DISCOVERY ID" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_413.png" group-title="TR | BELGESEL",TR: DISCOVERY ID
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=490&extension=m3u8
+#EXTINF:-1 tvg-id="discoverychannel.tr" tvg-name="TR: DISCOVERY IDX HD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_414.png" group-title="TR | BELGESEL",TR: DISCOVERY IDX HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=496&extension=m3u8
+#EXTINF:-1 tvg-id="historychannel.tr" tvg-name="TR: History HD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_604.png" group-title="TR | BELGESEL",TR: History HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=497&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TLC TV HD+" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_410.png" group-title="TR | BELGESEL",TR: TLC TV HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=110605&extension=m3u8
+#EXTINF:-1 tvg-id="tlc.tr" tvg-name="TR: TLC TV" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_409.png" group-title="TR | BELGESEL",TR: TLC TV
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=4174&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DMAX HD+" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_403.png" group-title="TR | BELGESEL",TR: DMAX HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=67565&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DMAX HD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_402.png" group-title="TR | BELGESEL",TR: DMAX HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=492&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: BBC Earth HD+" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_418.png" group-title="TR | BELGESEL",TR: BBC Earth HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=110608&extension=m3u8
+#EXTINF:-1 tvg-id="bbcearth.tr" tvg-name="TR: BBC Earth HD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_418.png" group-title="TR | BELGESEL",TR: BBC Earth HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=491&extension=m3u8
+#EXTINF:-1 tvg-id="beingurme.tr" tvg-name="TR: bieN GuRME HD+" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_395.png" group-title="TR | BELGESEL",TR: bieN GuRME HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=493&extension=m3u8
+#EXTINF:-1 tvg-id="beiniz.tr" tvg-name="TR: bieN IZ HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-iz-qa-tr.png" group-title="TR | BELGESEL",TR: bieN IZ HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=18563&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: ViASAT HiSTORY HD+" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_190.png" group-title="TR | BELGESEL",TR: ViASAT HiSTORY HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=494&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: ViASAT HiSTORY HD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_405.png" group-title="TR | BELGESEL",TR: ViASAT HiSTORY HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=110614&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: VIASAT EXPLORE HD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_406.png" group-title="TR | BELGESEL",TR: VIASAT EXPLORE HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=197205&extension=m3u8
+#EXTINF:-1 tvg-id="yabantv.tr" tvg-name="TR: YABAN TV HD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_399.png" group-title="TR | BELGESEL",TR: YABAN TV HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=484&extension=m3u8
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: TGRT BELGESEL" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_390.png" group-title="TR | BELGESEL",TR: TGRT BELGESEL
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=20601&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: LOVE NATURE HD" tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love-nature-logo_peacock.png" group-title="TR | BELGESEL",TR: LOVE NATURE HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=67567&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: LOVE NATURE HD+" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_392.png" group-title="TR | BELGESEL",TR: LOVE NATURE HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=110620&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: OUTDOOR HD+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Outdoor_Channel_logo_2017.svg/1280px-Outdoor_Channel_logo_2017.svg.png" group-title="TR | BELGESEL",TR: OUTDOOR HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=67568&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DOCUBOX HD+" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_394.png" group-title="TR | BELGESEL",TR: DOCUBOX HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=17179&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DOCUBOX HD+" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_394.png" group-title="TR | BELGESEL",TR: DOCUBOX HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=110617&extension=m3u8
+#EXTINF:-1 tvg-id="animalplanet.tr" tvg-name="TR: CIFTCI TV HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/animal-planet-us.png" group-title="TR | BELGESEL",TR: CIFTCI TV HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=498&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: 24 KiTCHEN HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/24_kitchen_us.png" group-title="TR | BELGESEL",TR: 24 KiTCHEN HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=110607&extension=m3u8
+#EXTINF:-1 tvg-id="24kitchen.tr" tvg-name="TR: 24 KiTCHEN HD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0N_560.png" group-title="TR | BELGESEL",TR: 24 KiTCHEN HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=495&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TARIM TV" tvg-logo="" group-title="TR | BELGESEL",TR: TARIM TV
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=192916&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: KOY TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/koy-tv-tr.png" group-title="TR | BELGESEL",TR: KOY TV
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=192917&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DOCUAX WILD" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/05/2c/82/052c82ca-1466-6441-f040-7dc10dc92520/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-0-85-220.png/1200x630wa.png" group-title="TR | BELGESEL",TR: DOCUAX WILD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219403&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DOCUAX SPACE" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/05/2c/82/052c82ca-1466-6441-f040-7dc10dc92520/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-0-85-220.png/1200x630wa.png" group-title="TR | BELGESEL",TR: DOCUAX SPACE
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219401&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DOCUAX PARANORMAL" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/05/2c/82/052c82ca-1466-6441-f040-7dc10dc92520/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-0-85-220.png/1200x630wa.png" group-title="TR | BELGESEL",TR: DOCUAX PARANORMAL
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=271922&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DOCUAX CRIME" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/05/2c/82/052c82ca-1466-6441-f040-7dc10dc92520/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-0-85-220.png/1200x630wa.png" group-title="TR | BELGESEL",TR: DOCUAX CRIME
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=264778&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DOCUAX UNDERGROUND" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/05/2c/82/052c82ca-1466-6441-f040-7dc10dc92520/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-0-85-220.png/1200x630wa.png" group-title="TR | BELGESEL",TR: DOCUAX UNDERGROUND
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=264779&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DOCUAX DEEPWATER" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/05/2c/82/052c82ca-1466-6441-f040-7dc10dc92520/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-0-85-220.png/1200x630wa.png" group-title="TR | BELGESEL",TR: DOCUAX DEEPWATER
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=266802&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DOCUAX HISTORY" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/05/2c/82/052c82ca-1466-6441-f040-7dc10dc92520/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-0-85-220.png/1200x630wa.png" group-title="TR | BELGESEL",TR: DOCUAX HISTORY
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219402&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DOCUAX LIFE" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/05/2c/82/052c82ca-1466-6441-f040-7dc10dc92520/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-0-85-220.png/1200x630wa.png" group-title="TR | BELGESEL",TR: DOCUAX LIFE
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=259795&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DOCUAX EARTH" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/05/2c/82/052c82ca-1466-6441-f040-7dc10dc92520/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-0-85-220.png/1200x630wa.png" group-title="TR | BELGESEL",TR: DOCUAX EARTH
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=259796&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DOCUAX WAR" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/05/2c/82/052c82ca-1466-6441-f040-7dc10dc92520/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-0-85-220.png/1200x630wa.png" group-title="TR | BELGESEL",TR: DOCUAX WAR
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=259797&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DOCUAX TECH" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/05/2c/82/052c82ca-1466-6441-f040-7dc10dc92520/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-0-85-220.png/1200x630wa.png" group-title="TR | BELGESEL",TR: DOCUAX TECH
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219400&extension=m3u8
+#EXTINF:-1 tvg-id="trthaber.tr" tvg-name="TR: TRT HABER HD+" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_362.png" group-title="TR | HABER",TR: TRT HABER HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=418&extension=m3u8
+#EXTINF:-1 tvg-id="trthaber.tr" tvg-name="TR: TRT HABER HD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_379.png" group-title="TR | HABER",TR: TRT HABER HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=403&extension=m3u8
+#EXTINF:-1 tvg-id="haberturk.tr" tvg-name="TR: HABER TURK HD+" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_358.png" group-title="TR | HABER",TR: HABER TURK HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=419&extension=m3u8
+#EXTINF:-1 tvg-id="haberturk.tr" tvg-name="TR: HABER TURK HD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_376.png" group-title="TR | HABER",TR: HABER TURK HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=404&extension=m3u8
+#EXTINF:-1 tvg-id="cnnturk.tr" tvg-name="TR: CNN TURK HD+" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_361.png" group-title="TR | HABER",TR: CNN TURK HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=423&extension=m3u8
+#EXTINF:-1 tvg-id="cnnturk.tr" tvg-name="TR: CNN TURK HD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_381.png" group-title="TR | HABER",TR: CNN TURK HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=412&extension=m3u8
+#EXTINF:-1 tvg-id="ntv.tr" tvg-name="TR: NTV HABER HD+" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_360.png" group-title="TR | HABER",TR: NTV HABER HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=406&extension=m3u8
+#EXTINF:-1 tvg-id="ntv.tr" tvg-name="TR: NTV HABER HD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_378.png" group-title="TR | HABER",TR: NTV HABER HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=405&extension=m3u8
+#EXTINF:-1 tvg-id="haberglobal.tr" tvg-name="TR: GLOBAL HABER HD+" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_384.png" group-title="TR | HABER",TR: GLOBAL HABER HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=422&extension=m3u8
+#EXTINF:-1 tvg-id="haberglobal.tr" tvg-name="TR: GLOBAL HABER HD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_383.png" group-title="TR | HABER",TR: GLOBAL HABER HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=411&extension=m3u8
+#EXTINF:-1 tvg-id="halk.tr" tvg-name="TR: HALK TV HD+" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_350.png" group-title="TR | HABER",TR: HALK TV HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=415&extension=m3u8
+#EXTINF:-1 tvg-id="halk.tr" tvg-name="TR: HALK TV HD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_351.png" group-title="TR | HABER",TR: HALK TV HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=185656&extension=m3u8
+#EXTINF:-1 tvg-id="apara.tr" tvg-name="TR: A PARA HD+" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_338.png" group-title="TR | HABER",TR: A PARA HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=410&extension=m3u8
+#EXTINF:-1 tvg-id="apara.tr" tvg-name="TR: A PARA HD+" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_338.png" group-title="TR | HABER",TR: A PARA HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=421&extension=m3u8
+#EXTINF:-1 tvg-id="ahaber.tr" tvg-name="TR: A HABER HD+" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_359.png" group-title="TR | HABER",TR: A HABER HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=417&extension=m3u8
+#EXTINF:-1 tvg-id="tele1.tr" tvg-name="TR: TELE 1 HD+" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_363.png" group-title="TR | HABER",TR: TELE 1 HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=4812&extension=m3u8
+#EXTINF:-1 tvg-id="tele1.tr" tvg-name="TR: TELE 1 HD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_356.png" group-title="TR | HABER",TR: TELE 1 HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=193948&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: SOZCU TV HD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0N_1119.png" group-title="TR | HABER",TR: SOZCU TV HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=269066&extension=m3u8
+#EXTINF:-1 tvg-id="krt.tr" tvg-name="TR: KRT TV HD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_373.png" group-title="TR | HABER",TR: KRT TV HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=416&extension=m3u8
+#EXTINF:-1 tvg-id="ulketv.tr" tvg-name="TR: ULKETV HD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_368.png" group-title="TR | HABER",TR: ULKETV HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=401&extension=m3u8
+#EXTINF:-1 tvg-id="tv100.tr" tvg-name="TR: TV 100 HD+" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_349.png" group-title="TR | HABER",TR: TV 100 HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=414&extension=m3u8
+#EXTINF:-1 tvg-id="tv100.tr" tvg-name="TR: TV 100 HD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_374.png" group-title="TR | HABER",TR: TV 100 HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=186669&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL ON6 HABER" tvg-logo="https://iptvmerkezim.com/sport/yayinlogo.png" group-title="TR | HABER",TR: KANAL ON6 HABER
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=280698&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL ON6 HABER HD" tvg-logo="https://iptvmerkezim.com/sport/yayinlogo.png" group-title="TR | HABER",TR: KANAL ON6 HABER HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=280720&extension=m3u8
+#EXTINF:-1 tvg-id="bloomberght.tr" tvg-name="TR: Bloomberg HT" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_364.png" group-title="TR | HABER",TR: Bloomberg HT
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=7554&extension=m3u8
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: KANAL 24 HD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_372.png" group-title="TR | HABER",TR: KANAL 24 HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=408&extension=m3u8
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: TGRT HABER HD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_369.png" group-title="TR | HABER",TR: TGRT HABER HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=407&extension=m3u8
+#EXTINF:-1 tvg-id="360.tr" tvg-name="TR: 360 HD" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0N_1551.png" group-title="TR | HABER",TR: 360 HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=409&extension=m3u8
+#EXTINF:-1 tvg-id="anews.tr" tvg-name="TR: A NEWS HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/a_news_tr.png" group-title="TR | HABER",TR: A NEWS HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=413&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: BRT 3" tvg-logo="" group-title="TR | HABER",TR: BRT 3
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=114884&extension=m3u8
+#EXTINF:-1 tvg-id="ekoturk.tr" tvg-name="TR: EKOTURK TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/ekoturk-tr.png" group-title="TR | HABER",TR: EKOTURK TV
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=123363&extension=m3u8
+#EXTINF:-1 tvg-id="uzay.tr" tvg-name="TR: UZAY HABER" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_340.png" group-title="TR | HABER",TR: UZAY HABER
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=402&extension=m3u8
+#EXTINF:-1 tvg-id="ulusalkanal.tr" tvg-name="TR: ULUSAL KANAL" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_365.png" group-title="TR | HABER",TR: ULUSAL KANAL
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=7548&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TH TURKHABER" tvg-logo="" group-title="TR | HABER",TR: TH TURKHABER
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=185655&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: FLASH HABER HD+" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_339.png" group-title="TR | HABER",TR: FLASH HABER HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=277067&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="#### HABER KANALLARI ####" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0M_380.png" group-title="TR | HABER",#### HABER KANALLARI ####
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=120&extension=m3u8
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: bieN SP0RT 1 HD+" tvg-logo="https://media-cf.tr.beinsports.com/App_Themes/2011/gfx/beinlogo/bein_sports1.png" group-title="TR | beIN SPORTS",TR: bieN SP0RT 1 HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=19048&extension=m3u8
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: bieN SP0RT 1 HD" tvg-logo="https://media-cf.tr.beinsports.com/App_Themes/2011/gfx/beinlogo/bein_sports1.png" group-title="TR | beIN SPORTS",TR: bieN SP0RT 1 HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=288&extension=m3u8
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="TR: bieN SP0RT 2 HD+" tvg-logo="https://media-cf.tr.beinsports.com/App_Themes/2011/gfx/beinlogo/bein_sports2.png" group-title="TR | beIN SPORTS",TR: bieN SP0RT 2 HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=289&extension=m3u8
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="TR: bieN SP0RT 2 HD" tvg-logo="https://media-cf.tr.beinsports.com/App_Themes/2011/gfx/beinlogo/bein_sports2.png" group-title="TR | beIN SPORTS",TR: bieN SP0RT 2 HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=262&extension=m3u8
+#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="TR: bieN SP0RT 3 HD+" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="TR | beIN SPORTS",TR: bieN SP0RT 3 HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=290&extension=m3u8
+#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="TR: bieN SP0RT 3 HD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="TR | beIN SPORTS",TR: bieN SP0RT 3 HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=263&extension=m3u8
+#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="TR: bieN SP0RT 4 HD+" tvg-logo="https://media-cf.tr.beinsports.com/App_Themes/2011/gfx/beinlogo/bein_sports4.png" group-title="TR | beIN SPORTS",TR: bieN SP0RT 4 HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=291&extension=m3u8
+#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="TR: bieN SP0RT 4 HD" tvg-logo="https://media-cf.tr.beinsports.com/App_Themes/2011/gfx/beinlogo/bein_sports4.png" group-title="TR | beIN SPORTS",TR: bieN SP0RT 4 HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=264&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: bieN SP0RT 5 HD+" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png" group-title="TR | beIN SPORTS",TR: bieN SP0RT 5 HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=117043&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: bieN SP0RT 5 HD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png" group-title="TR | beIN SPORTS",TR: bieN SP0RT 5 HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=290639&extension=m3u8
+#EXTINF:-1 tvg-id="beinsportshaber.tr" tvg-name="TR: bieN SP0RT HABER HD+" tvg-logo="https://media-cf.tr.beinsports.com/App_Themes/2011/gfx/beinlogo/beinsports_haber.png" group-title="TR | beIN SPORTS",TR: bieN SP0RT HABER HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=285&extension=m3u8
+#EXTINF:-1 tvg-id="beinsportshaber.tr" tvg-name="TR: bieN SP0RT HABER HD" tvg-logo="https://media-cf.tr.beinsports.com/App_Themes/2011/gfx/beinlogo/beinsports_haber.png" group-title="TR | beIN SPORTS",TR: bieN SP0RT HABER HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=267&extension=m3u8
+#EXTINF:-1 tvg-id="beinsportsmax1.tr" tvg-name="TR: bieN SP0RTS MAX 1 HD+" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F654%2Fbein-sports-max-1.png" group-title="TR | beIN SPORTS",TR: bieN SP0RTS MAX 1 HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=292&extension=m3u8
+#EXTINF:-1 tvg-id="beinsportsmax1.tr" tvg-name="TR: bieN SP0RT MAX 1 HD" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F654%2Fbein-sports-max-1.png" group-title="TR | beIN SPORTS",TR: bieN SP0RT MAX 1 HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=265&extension=m3u8
+#EXTINF:-1 tvg-id="beinsportsmax2.tr" tvg-name="TR: bieN SP0RT MAX 2 HD+" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/beIN_Sports_MAX_2_TR_logo.png" group-title="TR | beIN SPORTS",TR: bieN SP0RT MAX 2 HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=293&extension=m3u8
+#EXTINF:-1 tvg-id="beinsportsmax2.tr" tvg-name="TR: bieN SP0RT MAX 2 HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/beIN_Sports_MAX_2_TR_logo.png" group-title="TR | beIN SPORTS",TR: bieN SP0RT MAX 2 HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=266&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: bieN CONNECT 1 maczamani" tvg-logo="https://cdn6.aptoide.com/imgs/3/d/4/3d41b0206a1599f45725e0b7aedeca8c_icon.png" group-title="TR | beIN SPORTS",TR: bieN CONNECT 1 maczamani
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=117040&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: bieN CONNECT 2 maczamani" tvg-logo="https://cdn6.aptoide.com/imgs/3/d/4/3d41b0206a1599f45725e0b7aedeca8c_icon.png" group-title="TR | beIN SPORTS",TR: bieN CONNECT 2 maczamani
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=117041&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: bieN CONNECT 3 maczamani" tvg-logo="https://cdn6.aptoide.com/imgs/3/d/4/3d41b0206a1599f45725e0b7aedeca8c_icon.png" group-title="TR | beIN SPORTS",TR: bieN CONNECT 3 maczamani
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=117042&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: bieN CONNECT 4 maczamani" tvg-logo="https://cdn6.aptoide.com/imgs/3/d/4/3d41b0206a1599f45725e0b7aedeca8c_icon.png" group-title="TR | beIN SPORTS",TR: bieN CONNECT 4 maczamani
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=285966&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: bieN CONNECT 5 maczamani" tvg-logo="https://cdn6.aptoide.com/imgs/3/d/4/3d41b0206a1599f45725e0b7aedeca8c_icon.png" group-title="TR | beIN SPORTS",TR: bieN CONNECT 5 maczamani
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=285967&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: bieN CONNECT 6 maczamani" tvg-logo="https://cdn6.aptoide.com/imgs/3/d/4/3d41b0206a1599f45725e0b7aedeca8c_icon.png" group-title="TR | beIN SPORTS",TR: bieN CONNECT 6 maczamani
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=285968&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: bieN SP0RT 1 (HEVC)" tvg-logo="https://serversitesi.pw//resim/galeri_MTYzZ_443.png" group-title="TR | beIN SPORTS 1 (VIP)",TR: bieN SP0RT 1 (HEVC)
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=349693&extension=m3u8
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: bieN SP0RT 1 (1080)" tvg-logo="https://serversitesi.pw//resim/galeri_MTY0N_726.png" group-title="TR | beIN SPORTS 1 (VIP)",TR: bieN SP0RT 1 (1080)
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=5000&extension=m3u8
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: bieN SP0RT 1 (720)" tvg-logo="https://serversitesi.pw//resim/galeri_MTYzZ_442.png" group-title="TR | beIN SPORTS 1 (VIP)",TR: bieN SP0RT 1 (720)
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=286&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: bieN SP0RT 1 (640)" tvg-logo="https://serversitesi.pw//resim/galeri_MTYzZ_440.png" group-title="TR | beIN SPORTS 1 (VIP)",TR: bieN SP0RT 1 (640)
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=222303&extension=m3u8
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR:  bieN SP0RT 1 (576)" tvg-logo="https://serversitesi.pw//resim/galeri_MTYzZ_440.png" group-title="TR | beIN SPORTS 1 (VIP)",TR:  bieN SP0RT 1 (576)
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=117044&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: bieN SP0RT 1 (480)" tvg-logo="https://serversitesi.pw//resim/galeri_MTYzZ_440.png" group-title="TR | beIN SPORTS 1 (VIP)",TR: bieN SP0RT 1 (480)
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=349694&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: bieN SP0RT 1 (360)" tvg-logo="https://serversitesi.pw//resim/galeri_MTYzZ_440.png" group-title="TR | beIN SPORTS 1 (VIP)",TR: bieN SP0RT 1 (360)
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=349695&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: bieN SP0RT 1 (SUPERONLINE)" tvg-logo="https://serversitesi.pw//resim/galeri_MTYzZ_440.png" group-title="TR | beIN SPORTS 1 (VIP)",TR: bieN SP0RT 1 (SUPERONLINE)
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=349722&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: bieN SP0RT 1 (TTNET)" tvg-logo="https://serversitesi.pw//resim/galeri_MTYzZ_440.png" group-title="TR | beIN SPORTS 1 (VIP)",TR: bieN SP0RT 1 (TTNET)
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=349721&extension=m3u8
+#EXTINF:-1 tvg-id="beinmoviespremier.tr" tvg-name="TR: b**N M0VIES P*EMIER HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-movies-premiere-qa-tr.png" group-title="TR | CANLI SINEMA",TR: b**N M0VIES P*EMIER HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=312&extension=m3u8
+#EXTINF:-1 tvg-id="beinmoviespremiere2.tr" tvg-name="TR: b**N MOVIES P*EMIERE 2 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-movies-premiere-2-qa-tr.png" group-title="TR | CANLI SINEMA",TR: b**N MOVIES P*EMIERE 2 HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=317&extension=m3u8
+#EXTINF:-1 tvg-id="beinmoviesstars.tr" tvg-name="TR: b**N M0VIES STARS HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-movies-stars-qa-tr.png" group-title="TR | CANLI SINEMA",TR: b**N M0VIES STARS HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=319&extension=m3u8
+#EXTINF:-1 tvg-id="beinmoviesturk.tr" tvg-name="TR: b**N M0VIES TURK HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-movies-turk-qa-tr.png" group-title="TR | CANLI SINEMA",TR: b**N M0VIES TURK HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=316&extension=m3u8
+#EXTINF:-1 tvg-id="beinseriescomedy.tr" tvg-name="TR: b**N S*RIES C0MEDY HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-series-comedy-qa-tr.png" group-title="TR | CANLI SINEMA",TR: b**N S*RIES C0MEDY HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=309&extension=m3u8
+#EXTINF:-1 tvg-id="beinseriesdrama.tr" tvg-name="TR: b**N S*RIES DR*MA HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-series-drama-qa-tr.png" group-title="TR | CANLI SINEMA",TR: b**N S*RIES DR*MA HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=307&extension=m3u8
+#EXTINF:-1 tvg-id="beinseriesscifi.tr" tvg-name="TR: b**N S*RIES SCFI HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-series-sci-fi-qa-tr.png" group-title="TR | CANLI SINEMA",TR: b**N S*RIES SCFI HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=308&extension=m3u8
+#EXTINF:-1 tvg-id="beinseriesvice.tr" tvg-name="TR: b**N S*RIES VlCE HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-series-vice-qa-tr.png" group-title="TR | CANLI SINEMA",TR: b**N S*RIES VlCE HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=306&extension=m3u8
+#EXTINF:-1 tvg-id="moviesmartclassic.tr" tvg-name="TR: MOVİESMART CLASSİC HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/moviesmart-classic-tr.png" group-title="TR | CANLI SINEMA",TR: MOVİESMART CLASSİC HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=350&extension=m3u8
+#EXTINF:-1 tvg-id="smartcocuk.tr" tvg-name="TR: MOVIESMART COCUK HD+" tvg-logo="" group-title="TR | CANLI SINEMA",TR: MOVIESMART COCUK HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=370&extension=m3u8
+#EXTINF:-1 tvg-id="moviesmartturk.tr" tvg-name="TR: MOVİESMART TURK HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/moviesmart-turk-tr.png" group-title="TR | CANLI SINEMA",TR: MOVİESMART TURK HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=349&extension=m3u8
+#EXTINF:-1 tvg-id="dizismartpremium.tr" tvg-name="TR: DİZİ SMART PREMIUM HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dizismart-premium-tr.png" group-title="TR | CANLI SINEMA",TR: DİZİ SMART PREMIUM HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=351&extension=m3u8
+#EXTINF:-1 tvg-id="dizismartpremium.tr" tvg-name="TR: DIZI SMART PREMIUM HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dizismart-premium-tr.png" group-title="TR | CANLI SINEMA",TR: DIZI SMART PREMIUM HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=331&extension=m3u8
+#EXTINF:-1 tvg-id="dizismartmax.tr" tvg-name="TR: DIZI SMART MAX HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dizismart-max-tr.png" group-title="TR | CANLI SINEMA",TR: DIZI SMART MAX HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=332&extension=m3u8
+#EXTINF:-1 tvg-id="dizismartmax.tr" tvg-name="TR: DIZI SMART MAX HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dizismart-max-tr.png" group-title="TR | CANLI SINEMA",TR: DIZI SMART MAX HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=352&extension=m3u8
+#EXTINF:-1 tvg-id="sinema1001hd.tr" tvg-name="TR: SINEMA TV 1001 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-1001-tr.png" group-title="TR | CANLI SINEMA",TR: SINEMA TV 1001 HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=368&extension=m3u8
+#EXTINF:-1 tvg-id="sinema1002.tr" tvg-name="TR: SINEMA TV 1002 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-1002-tr.png" group-title="TR | CANLI SINEMA",TR: SINEMA TV 1002 HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=369&extension=m3u8
+#EXTINF:-1 tvg-id="sinematvhd.tr" tvg-name="TR: SINEMA TV HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-tv-tr.png" group-title="TR | CANLI SINEMA",TR: SINEMA TV HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=358&extension=m3u8
+#EXTINF:-1 tvg-id="sinema2hd.tr" tvg-name="TR: SINEMA TV 2 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-2-tr.png" group-title="TR | CANLI SINEMA",TR: SINEMA TV 2 HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=359&extension=m3u8
+#EXTINF:-1 tvg-id="sinemaaksiyonhd.tr" tvg-name="TR: SINEMA TV ACTION HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-aksiyon-tr.png" group-title="TR | CANLI SINEMA",TR: SINEMA TV ACTION HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=360&extension=m3u8
+#EXTINF:-1 tvg-id="sinemaaksiyon2hd.tr" tvg-name="TR: SINEMA TV ACTION 2 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-aksiyon-2-tr.png" group-title="TR | CANLI SINEMA",TR: SINEMA TV ACTION 2 HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=361&extension=m3u8
+#EXTINF:-1 tvg-id="sinemakomedihd.tr" tvg-name="TR: SINEMA TV KOMEDI HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-komedi-tr.png" group-title="TR | CANLI SINEMA",TR: SINEMA TV KOMEDI HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=364&extension=m3u8
+#EXTINF:-1 tvg-id="sinemaailehd.tr" tvg-name="TR: SINEMA TV AILE HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-aile-tr.png" group-title="TR | CANLI SINEMA",TR: SINEMA TV AILE HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=362&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: SINEMA TV AILE 2 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-aile-2-tr.png" group-title="TR | CANLI SINEMA",TR: SINEMA TV AILE 2 HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=363&extension=m3u8
+#EXTINF:-1 tvg-id="sinemayerli.tr" tvg-name="TR: SINEMA TV YERLI  HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-yerli-tr.png" group-title="TR | CANLI SINEMA",TR: SINEMA TV YERLI  HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=366&extension=m3u8
+#EXTINF:-1 tvg-id="sinemayerli2.tr" tvg-name="TR: SINEMA TV YERLI 2 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-yerli-2-tr.png" group-title="TR | CANLI SINEMA",TR: SINEMA TV YERLI 2 HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=367&extension=m3u8
+#EXTINF:-1 tvg-id="sinemakomedi2hd.tr" tvg-name="TR: SINEMA TV KOMEDI 2 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-komedi-2-tr.png" group-title="TR | CANLI SINEMA",TR: SINEMA TV KOMEDI 2 HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=365&extension=m3u8
+#EXTINF:-1 tvg-id="fxnetwork.tr" tvg-name="TR: FX HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fx_us.png" group-title="TR | CANLI SINEMA",TR: FX HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=354&extension=m3u8
+#EXTINF:-1 tvg-id="foxcrime.tr" tvg-name="TR: FOX CRIME HD+" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/9/97/Foxcrimehd.png" group-title="TR | CANLI SINEMA",TR: FOX CRIME HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=356&extension=m3u8
+#EXTINF:-1 tvg-id="360.tr" tvg-name="TR: b**N MOVIES FAMILY HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-movies-family-qa-tr.png" group-title="TR | CANLI SINEMA",TR: b**N MOVIES FAMILY HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=106621&extension=m3u8
+#EXTINF:-1 tvg-id="360.tr" tvg-name="TR: b**N MOVIES ACTION HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-movies-action-qa-tr.png" group-title="TR | CANLI SINEMA",TR: b**N MOVIES ACTION HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=106622&extension=m3u8
+#EXTINF:-1 tvg-id="360.tr" tvg-name="TR: b**N M0VIES ACTI0N 2 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-movies-action-2-qa-tr.png" group-title="TR | CANLI SINEMA",TR: b**N M0VIES ACTI0N 2 HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=318&extension=m3u8
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: Platinum X Sport 4K" tvg-logo="https://i.hizliresim.com/mo83n89.png" group-title="TR | beIN FEED",TR: Platinum X Sport 4K
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=106810&extension=m3u8
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: Platinum X Sports HEVC" tvg-logo="https://i.hizliresim.com/mo83n89.png" group-title="TR | beIN FEED",TR: Platinum X Sports HEVC
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=116091&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Platinum X Sports Ultimate" tvg-logo="https://i.hizliresim.com/mo83n89.png" group-title="TR | beIN FEED",TR: Platinum X Sports Ultimate
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=125161&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Platinum X Sports HD+" tvg-logo="https://i.hizliresim.com/mo83n89.png" group-title="TR | beIN FEED",TR: Platinum X Sports HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=126525&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Platinum X Sports 2 HD+" tvg-logo="https://i.hizliresim.com/mo83n89.png" group-title="TR | beIN FEED",TR: Platinum X Sports 2 HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=125160&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Platinum X Sports 2 HD" tvg-logo="https://i.hizliresim.com/mo83n89.png" group-title="TR | beIN FEED",TR: Platinum X Sports 2 HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=142061&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Coder + Ultimate" tvg-logo="" group-title="TR | beIN FEED",TR: Coder + Ultimate
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=207540&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Netflix HD" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | SINEMA",TR: FILMAX Netflix HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=185254&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX DISNEY" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | SINEMA",TR: FILMAX DISNEY
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=259605&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX AMAZON PRIME" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | SINEMA",TR: FILMAX AMAZON PRIME
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=259606&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX MARVEL" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | SINEMA",TR: FILMAX MARVEL
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=340368&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX IMDB TOP" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | SINEMA",TR: FILMAX IMDB TOP
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=215167&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX GOLD HD" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | SINEMA",TR: FILMAX GOLD HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=389&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Bilim Kurgu" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | SINEMA",TR: FILMAX Bilim Kurgu
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=214621&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Action HD" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | SINEMA",TR: FILMAX Action HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=385&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:  FILMAX Türk HD" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | SINEMA",TR:  FILMAX Türk HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=387&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX ANIMASYON" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | SINEMA",TR: FILMAX ANIMASYON
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219433&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Aile" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | SINEMA",TR: FILMAX Aile
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=214620&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:  FILMAX FANTASTIK HD" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | SINEMA",TR:  FILMAX FANTASTIK HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=382&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Korku HD" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | SINEMA",TR: FILMAX Korku HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=383&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:  FILMAX COMEDY HD" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | SINEMA",TR:  FILMAX COMEDY HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=388&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX GERILIM" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | SINEMA",TR: FILMAX GERILIM
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=215164&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX ROMANTIK" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | SINEMA",TR: FILMAX ROMANTIK
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=215165&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Drama" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | SINEMA",TR: FILMAX Drama
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=113523&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX SAVAS" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | SINEMA",TR: FILMAX SAVAS
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=215166&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Kemal Sunal" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | SINEMA",TR: FILMAX Kemal Sunal
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=113521&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Yesilcam" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | SINEMA",TR: FILMAX Yesilcam
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=113522&extension=m3u8
+#EXTINF:-1 tvg-id="beinboxoffice1.tr" tvg-name="TR: b**N B0X 0FFİCE 1 HD" tvg-logo="https://contentlibrary.digiturk.com.tr/Channel/36/Image/box_office1_205x150_2022.png" group-title="TR | SINEMA",TR: b**N B0X 0FFİCE 1 HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=313&extension=m3u8
+#EXTINF:-1 tvg-id="beinboxoffice2.tr" tvg-name="TR: b**N B0X 0FFİCE 2 HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/beIN_Box_Office_2_TR_logo.png" group-title="TR | SINEMA",TR: b**N B0X 0FFİCE 2 HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=314&extension=m3u8
+#EXTINF:-1 tvg-id="beinboxoffice3.tr" tvg-name="TR: b**N B*X 0FFİCE 3 HD" tvg-logo="https://contentlibrary.digiturk.com.tr/Channel/38/Image/box_office3_205x150_2022.png" group-title="TR | SINEMA",TR: b**N B*X 0FFİCE 3 HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=315&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX UHD" tvg-logo="" group-title="TR | SINEMA",TR: MAX UHD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219317&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX HD" tvg-logo="" group-title="TR | SINEMA",TR: MAX HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219316&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:  MAX Aksiyon HD" tvg-logo="" group-title="TR | SINEMA",TR:  MAX Aksiyon HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=10839&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX Aksiyon 2 HD" tvg-logo="" group-title="TR | SINEMA",TR: MAX Aksiyon 2 HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=10840&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX Premier HD" tvg-logo="" group-title="TR | SINEMA",TR: MAX Premier HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=10841&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX Orjinal HD" tvg-logo="" group-title="TR | SINEMA",TR: MAX Orjinal HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=10842&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX Western HD" tvg-logo="" group-title="TR | SINEMA",TR: MAX Western HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=10843&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX Hint Filimleri" tvg-logo="" group-title="TR | SINEMA",TR: MAX Hint Filimleri
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=10844&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX Vizyon HD" tvg-logo="" group-title="TR | SINEMA",TR: MAX Vizyon HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=10845&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX Vizyon 2 HD" tvg-logo="" group-title="TR | SINEMA",TR: MAX Vizyon 2 HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=10846&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX Vizyon 3 HD" tvg-logo="" group-title="TR | SINEMA",TR: MAX Vizyon 3 HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=10847&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX Vizyon 4 HD" tvg-logo="" group-title="TR | SINEMA",TR: MAX Vizyon 4 HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=10848&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX 007 HD" tvg-logo="" group-title="TR | SINEMA",TR: MAX 007 HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=10849&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX STAR WARS HD" tvg-logo="" group-title="TR | SINEMA",TR: MAX STAR WARS HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=10850&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX TURK HD" tvg-logo="" group-title="TR | SINEMA",TR: MAX TURK HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=10851&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX KİNO COLLECTİON HD" tvg-logo="" group-title="TR | SINEMA",TR: MAX KİNO COLLECTİON HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=10852&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX GOLD HD" tvg-logo="" group-title="TR | SINEMA",TR: MAX GOLD HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=10853&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Arenabox-Action" tvg-logo="" group-title="TR | SINEMA",TR: Arenabox-Action
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219823&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Arenabox-Animasyon" tvg-logo="" group-title="TR | SINEMA",TR: Arenabox-Animasyon
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219824&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Arenabox-Belgesel" tvg-logo="" group-title="TR | SINEMA",TR: Arenabox-Belgesel
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219825&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Arenabox-BilimKurgu" tvg-logo="" group-title="TR | SINEMA",TR: Arenabox-BilimKurgu
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219826&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Arenabox-Dram" tvg-logo="" group-title="TR | SINEMA",TR: Arenabox-Dram
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219827&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Arenabox-Fantastik" tvg-logo="" group-title="TR | SINEMA",TR: Arenabox-Fantastik
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219828&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Arenabox-Gerilim" tvg-logo="" group-title="TR | SINEMA",TR: Arenabox-Gerilim
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219829&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Arenabox-KemalSunal" tvg-logo="" group-title="TR | SINEMA",TR: Arenabox-KemalSunal
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219830&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Arenabox-Komedi" tvg-logo="" group-title="TR | SINEMA",TR: Arenabox-Komedi
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219831&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Arenabox-Korku" tvg-logo="" group-title="TR | SINEMA",TR: Arenabox-Korku
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219832&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Arenabox-Macera" tvg-logo="" group-title="TR | SINEMA",TR: Arenabox-Macera
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219833&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Arenabox-Vizyon" tvg-logo="" group-title="TR | SINEMA",TR: Arenabox-Vizyon
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219834&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Arenabox-Yerli" tvg-logo="" group-title="TR | SINEMA",TR: Arenabox-Yerli
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219835&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Arenabox-Yeşilçam" tvg-logo="" group-title="TR | SINEMA",TR: Arenabox-Yeşilçam
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219836&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: ProTurk-4K" tvg-logo="" group-title="TR | SINEMA",TR: ProTurk-4K
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219838&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: ProTurk-Action" tvg-logo="" group-title="TR | SINEMA",TR: ProTurk-Action
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219839&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: ProTurk-Animasyon" tvg-logo="" group-title="TR | SINEMA",TR: ProTurk-Animasyon
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219840&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: ProTurk-BilimKurgu" tvg-logo="" group-title="TR | SINEMA",TR: ProTurk-BilimKurgu
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219841&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: ProTurk-Comedy" tvg-logo="" group-title="TR | SINEMA",TR: ProTurk-Comedy
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219842&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: ProTurk-Dram" tvg-logo="" group-title="TR | SINEMA",TR: ProTurk-Dram
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219843&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: ProTurk-Fantastik" tvg-logo="" group-title="TR | SINEMA",TR: ProTurk-Fantastik
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219844&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: ProTurk-Gerilim" tvg-logo="" group-title="TR | SINEMA",TR: ProTurk-Gerilim
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219845&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: ProTurk-Korku" tvg-logo="" group-title="TR | SINEMA",TR: ProTurk-Korku
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219846&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: ProTurk-Kemal Sunal" tvg-logo="" group-title="TR | SINEMA",TR: ProTurk-Kemal Sunal
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219847&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: ProTurk-Loca 1" tvg-logo="" group-title="TR | SINEMA",TR: ProTurk-Loca 1
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219848&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: ProTurk-Loca 2" tvg-logo="" group-title="TR | SINEMA",TR: ProTurk-Loca 2
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219849&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: ProTurk-Macera" tvg-logo="" group-title="TR | SINEMA",TR: ProTurk-Macera
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219850&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: ProTurk-Netflix" tvg-logo="" group-title="TR | SINEMA",TR: ProTurk-Netflix
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219851&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: ProTurk-Orjinal" tvg-logo="" group-title="TR | SINEMA",TR: ProTurk-Orjinal
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219852&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: ProTurk-Uzakdoğu" tvg-logo="" group-title="TR | SINEMA",TR: ProTurk-Uzakdoğu
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219853&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: ProTurk-Vizyon" tvg-logo="" group-title="TR | SINEMA",TR: ProTurk-Vizyon
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219854&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: ProTurk-Western" tvg-logo="" group-title="TR | SINEMA",TR: ProTurk-Western
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219855&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: ProTurk-Yerli" tvg-logo="" group-title="TR | SINEMA",TR: ProTurk-Yerli
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219856&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: ProTurk-Yeşilçam" tvg-logo="" group-title="TR | SINEMA",TR: ProTurk-Yeşilçam
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219857&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: ProTurk-Egzersiz" tvg-logo="" group-title="TR | SINEMA",TR: ProTurk-Egzersiz
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219861&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: ProTurk-KickBox" tvg-logo="" group-title="TR | SINEMA",TR: ProTurk-KickBox
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219862&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: ProTurk-Masal" tvg-logo="" group-title="TR | SINEMA",TR: ProTurk-Masal
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219863&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: ProTurk-WWE" tvg-logo="" group-title="TR | SINEMA",TR: ProTurk-WWE
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219871&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Dreambox-Action" tvg-logo="" group-title="TR | SINEMA",TR: Dreambox-Action
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219873&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Dreambox-Bilimkurgu" tvg-logo="" group-title="TR | SINEMA",TR: Dreambox-Bilimkurgu
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219874&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Dreambox-Comedy" tvg-logo="" group-title="TR | SINEMA",TR: Dreambox-Comedy
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219875&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Dreambox-Dram" tvg-logo="" group-title="TR | SINEMA",TR: Dreambox-Dram
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219876&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Dreambox-Fantastic" tvg-logo="" group-title="TR | SINEMA",TR: Dreambox-Fantastic
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219877&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Dreambox-Gerilim" tvg-logo="" group-title="TR | SINEMA",TR: Dreambox-Gerilim
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219878&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Dreambox-Kemal Sunal" tvg-logo="" group-title="TR | SINEMA",TR: Dreambox-Kemal Sunal
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219879&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Dreambox-Korku" tvg-logo="" group-title="TR | SINEMA",TR: Dreambox-Korku
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219880&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Dreambox-Macera" tvg-logo="" group-title="TR | SINEMA",TR: Dreambox-Macera
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219881&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Dreambox-Nextflix" tvg-logo="" group-title="TR | SINEMA",TR: Dreambox-Nextflix
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219882&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Dreambox-Romantic" tvg-logo="" group-title="TR | SINEMA",TR: Dreambox-Romantic
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219883&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Dreambox-Savaş" tvg-logo="" group-title="TR | SINEMA",TR: Dreambox-Savaş
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219884&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Dreambox-Yerli" tvg-logo="" group-title="TR | SINEMA",TR: Dreambox-Yerli
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219885&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Dreambox-Yeşilçam" tvg-logo="" group-title="TR | SINEMA",TR: Dreambox-Yeşilçam
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219886&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Megabox-Action" tvg-logo="" group-title="TR | SINEMA",TR: Megabox-Action
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219887&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Megabox-Animasyon" tvg-logo="" group-title="TR | SINEMA",TR: Megabox-Animasyon
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219888&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Megabox-BilimKurgu" tvg-logo="" group-title="TR | SINEMA",TR: Megabox-BilimKurgu
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219889&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Megabox-Comedy" tvg-logo="" group-title="TR | SINEMA",TR: Megabox-Comedy
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219890&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Megabox-Dram" tvg-logo="" group-title="TR | SINEMA",TR: Megabox-Dram
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219891&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Megabox-Fantastic" tvg-logo="" group-title="TR | SINEMA",TR: Megabox-Fantastic
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219892&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Megabox-Gold" tvg-logo="" group-title="TR | SINEMA",TR: Megabox-Gold
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219893&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Megabox-Korku" tvg-logo="" group-title="TR | SINEMA",TR: Megabox-Korku
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219894&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Megabox-Western" tvg-logo="" group-title="TR | SINEMA",TR: Megabox-Western
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219895&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Megabox-Yerli" tvg-logo="" group-title="TR | SINEMA",TR: Megabox-Yerli
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219896&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Megabox-Yeşilçam" tvg-logo="" group-title="TR | SINEMA",TR: Megabox-Yeşilçam
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219897&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Megabox-Clip" tvg-logo="" group-title="TR | SINEMA",TR: Megabox-Clip
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219898&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Megabox-Ulke Seyehatı" tvg-logo="" group-title="TR | SINEMA",TR: Megabox-Ulke Seyehatı
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219899&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Realbox-Action" tvg-logo="" group-title="TR | SINEMA",TR: Realbox-Action
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219900&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Realbox-Animasyon" tvg-logo="" group-title="TR | SINEMA",TR: Realbox-Animasyon
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219901&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Realbox-BilimKurgu" tvg-logo="" group-title="TR | SINEMA",TR: Realbox-BilimKurgu
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219902&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Realbox-Comedy" tvg-logo="" group-title="TR | SINEMA",TR: Realbox-Comedy
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219903&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Realbox-Dram" tvg-logo="" group-title="TR | SINEMA",TR: Realbox-Dram
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219904&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Realbox-Fantastic" tvg-logo="" group-title="TR | SINEMA",TR: Realbox-Fantastic
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219905&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Realbox-Gerilim" tvg-logo="" group-title="TR | SINEMA",TR: Realbox-Gerilim
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219906&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Realbox-Hint" tvg-logo="" group-title="TR | SINEMA",TR: Realbox-Hint
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219907&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Realbox-Korku" tvg-logo="" group-title="TR | SINEMA",TR: Realbox-Korku
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219908&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Realbox-Kukili" tvg-logo="" group-title="TR | SINEMA",TR: Realbox-Kukili
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219909&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Realbox-Macera" tvg-logo="" group-title="TR | SINEMA",TR: Realbox-Macera
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219910&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Realbox-Niloya" tvg-logo="" group-title="TR | SINEMA",TR: Realbox-Niloya
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219911&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Realbox-Pepee" tvg-logo="" group-title="TR | SINEMA",TR: Realbox-Pepee
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219912&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Realbox-Rafadan Tayfa" tvg-logo="" group-title="TR | SINEMA",TR: Realbox-Rafadan Tayfa
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219913&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Realbox-Şirinler" tvg-logo="" group-title="TR | SINEMA",TR: Realbox-Şirinler
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219914&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Realbox-Vizyon" tvg-logo="" group-title="TR | SINEMA",TR: Realbox-Vizyon
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219915&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Realbox-Western" tvg-logo="" group-title="TR | SINEMA",TR: Realbox-Western
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219916&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Realbox-Yerli" tvg-logo="" group-title="TR | SINEMA",TR: Realbox-Yerli
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219917&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Realbox-Yeşilçam" tvg-logo="" group-title="TR | SINEMA",TR: Realbox-Yeşilçam
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219918&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Megabox-Macera" tvg-logo="" group-title="TR | SINEMA",TR: Megabox-Macera
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219919&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Megabox-Marvel" tvg-logo="" group-title="TR | SINEMA",TR: Megabox-Marvel
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219920&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Megabox-Netflix" tvg-logo="" group-title="TR | SINEMA",TR: Megabox-Netflix
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219921&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Megabox-Vizyon" tvg-logo="" group-title="TR | SINEMA",TR: Megabox-Vizyon
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219922&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Horror 1 HD" tvg-logo="" group-title="TR | SINEMA",TR: Horror 1 HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219923&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Horror 5 HD" tvg-logo="" group-title="TR | SINEMA",TR: Horror 5 HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219924&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Horror 2 HD" tvg-logo="" group-title="TR | SINEMA",TR: Horror 2 HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219925&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Horror 3 HD" tvg-logo="" group-title="TR | SINEMA",TR: Horror 3 HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219926&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Horror 4 HD" tvg-logo="" group-title="TR | SINEMA",TR: Horror 4 HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219927&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMBOX Action" tvg-logo="" group-title="TR | SINEMA",TR: FILMBOX Action
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219928&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMBOX Dram" tvg-logo="" group-title="TR | SINEMA",TR: FILMBOX Dram
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219929&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMBOX Family" tvg-logo="" group-title="TR | SINEMA",TR: FILMBOX Family
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219930&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMBOX Fantastic" tvg-logo="" group-title="TR | SINEMA",TR: FILMBOX Fantastic
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219931&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMBOX Horror" tvg-logo="" group-title="TR | SINEMA",TR: FILMBOX Horror
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219932&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMBOX Kemal Sunal" tvg-logo="" group-title="TR | SINEMA",TR: FILMBOX Kemal Sunal
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219933&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMBOX Comedy" tvg-logo="" group-title="TR | SINEMA",TR: FILMBOX Comedy
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219934&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMBOX Sicifi" tvg-logo="" group-title="TR | SINEMA",TR: FILMBOX Sicifi
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219935&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMBOX Yerli" tvg-logo="" group-title="TR | SINEMA",TR: FILMBOX Yerli
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219936&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMBOX Yesilcam" tvg-logo="" group-title="TR | SINEMA",TR: FILMBOX Yesilcam
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219937&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: FIX CINEMA Action" tvg-logo="" group-title="TR | SINEMA",TR: FIX CINEMA Action
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219938&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: FIX CINEMA Bilm Kurgu" tvg-logo="" group-title="TR | SINEMA",TR: FIX CINEMA Bilm Kurgu
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219939&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: FIX CINEMA Comedy" tvg-logo="" group-title="TR | SINEMA",TR: FIX CINEMA Comedy
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219940&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: FIX CINEMA Dram" tvg-logo="" group-title="TR | SINEMA",TR: FIX CINEMA Dram
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219941&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: FIX CINEMA Fantastic" tvg-logo="" group-title="TR | SINEMA",TR: FIX CINEMA Fantastic
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219942&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: FIX CINEMA Korku" tvg-logo="" group-title="TR | SINEMA",TR: FIX CINEMA Korku
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219943&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: FIX CINEMA Macera" tvg-logo="" group-title="TR | SINEMA",TR: FIX CINEMA Macera
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219944&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: FIX CINEMA Netflix" tvg-logo="" group-title="TR | SINEMA",TR: FIX CINEMA Netflix
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219945&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: FIX CINEMA Yerli" tvg-logo="" group-title="TR | SINEMA",TR: FIX CINEMA Yerli
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219946&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: FIX CINEMA Yesilcam" tvg-logo="" group-title="TR | SINEMA",TR: FIX CINEMA Yesilcam
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219947&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Global Box Korku" tvg-logo="" group-title="TR | SINEMA",TR: Global Box Korku
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219948&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Global Box Fantastic" tvg-logo="" group-title="TR | SINEMA",TR: Global Box Fantastic
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219949&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Global Box Action" tvg-logo="" group-title="TR | SINEMA",TR: Global Box Action
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219950&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Global Box Comedy" tvg-logo="" group-title="TR | SINEMA",TR: Global Box Comedy
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219951&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Global Box Dram" tvg-logo="" group-title="TR | SINEMA",TR: Global Box Dram
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219952&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Global Box Vizyon" tvg-logo="" group-title="TR | SINEMA",TR: Global Box Vizyon
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219953&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Global Box Yerli" tvg-logo="" group-title="TR | SINEMA",TR: Global Box Yerli
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219954&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Global Box Yeşilçam" tvg-logo="" group-title="TR | SINEMA",TR: Global Box Yeşilçam
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219955&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Global Box Kemal Sunal" tvg-logo="" group-title="TR | SINEMA",TR: Global Box Kemal Sunal
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219956&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: KingBox Action" tvg-logo="" group-title="TR | SINEMA",TR: KingBox Action
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219957&extension=m3u8
+#EXTINF:-1 tvg-id="sinemaaksiyonhd.tr" tvg-name="TR: SINEMA AKSIYON HD" tvg-logo="" group-title="TR | SINEMA",TR: SINEMA AKSIYON HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=335&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: REDBOX PREMIERE" tvg-logo="http://89.163.242.179:8080/images/963ab9d297b80d70d7ea85fe82b058fa.png" group-title="TR | SINEMA",TR: REDBOX PREMIERE
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=386&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: REDBOX VIZYON 1 HD" tvg-logo="http://89.163.242.179:8080/images/963ab9d297b80d70d7ea85fe82b058fa.png" group-title="TR | SINEMA",TR: REDBOX VIZYON 1 HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=390&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: REDBOX VIZYON 2  HD" tvg-logo="http://89.163.242.179:8080/images/963ab9d297b80d70d7ea85fe82b058fa.png" group-title="TR | SINEMA",TR: REDBOX VIZYON 2  HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=396&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: REDBOX SINEMA TURK 1 HD" tvg-logo="http://89.163.242.179:8080/images/963ab9d297b80d70d7ea85fe82b058fa.png" group-title="TR | SINEMA",TR: REDBOX SINEMA TURK 1 HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=391&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: REDBOX SINEMA TURK  2 HD" tvg-logo="http://89.163.242.179:8080/images/963ab9d297b80d70d7ea85fe82b058fa.png" group-title="TR | SINEMA",TR: REDBOX SINEMA TURK  2 HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=399&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: REDBOX ACTIE 1 HD" tvg-logo="http://89.163.242.179:8080/images/963ab9d297b80d70d7ea85fe82b058fa.png" group-title="TR | SINEMA",TR: REDBOX ACTIE 1 HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=392&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: REDBOX BILIMKURGU 1 HD" tvg-logo="http://89.163.242.179:8080/images/963ab9d297b80d70d7ea85fe82b058fa.png" group-title="TR | SINEMA",TR: REDBOX BILIMKURGU 1 HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=393&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: REDBOX HORROR 1 HD" tvg-logo="http://89.163.242.179:8080/images/963ab9d297b80d70d7ea85fe82b058fa.png" group-title="TR | SINEMA",TR: REDBOX HORROR 1 HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=394&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: REDBOX MIX 1 HD" tvg-logo="http://89.163.242.179:8080/images/963ab9d297b80d70d7ea85fe82b058fa.png" group-title="TR | SINEMA",TR: REDBOX MIX 1 HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=395&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: REDBOX DRAMA HD" tvg-logo="http://89.163.242.179:8080/images/963ab9d297b80d70d7ea85fe82b058fa.png" group-title="TR | SINEMA",TR: REDBOX DRAMA HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=398&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Yesilcam Sinema HD" tvg-logo="https://www.rizedeyiz.com/Arsiv/Icerik/2011/07/12/Resim_1310480030.jpg" group-title="TR | SINEMA",TR: Yesilcam Sinema HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=37975&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kemal Sunal TV" tvg-logo="" group-title="TR | SINEMA",TR: Kemal Sunal TV
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=397&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: YESILCAM ZEKMET TV" tvg-logo="" group-title="TR | SINEMA",TR: YESILCAM ZEKMET TV
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=185301&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK VIZYON" tvg-logo="" group-title="TR | SINEMA",TR: DINAMIK VIZYON
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=185217&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK AKSIYON" tvg-logo="" group-title="TR | SINEMA",TR: DINAMIK AKSIYON
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=185218&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK BILIMKURGU" tvg-logo="" group-title="TR | SINEMA",TR: DINAMIK BILIMKURGU
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=185219&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK BOX-SET" tvg-logo="" group-title="TR | SINEMA",TR: DINAMIK BOX-SET
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=185220&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK DRAM" tvg-logo="" group-title="TR | SINEMA",TR: DINAMIK DRAM
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=185222&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK IMBD" tvg-logo="" group-title="TR | SINEMA",TR: DINAMIK IMBD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=185223&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK TURK" tvg-logo="" group-title="TR | SINEMA",TR: DINAMIK TURK
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=185224&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK KOMEDI" tvg-logo="" group-title="TR | SINEMA",TR: DINAMIK KOMEDI
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=185225&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK KORKU" tvg-logo="" group-title="TR | SINEMA",TR: DINAMIK KORKU
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=185226&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK LOCA 1" tvg-logo="" group-title="TR | SINEMA",TR: DINAMIK LOCA 1
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=185227&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK LOCA 2" tvg-logo="" group-title="TR | SINEMA",TR: DINAMIK LOCA 2
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=185228&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK LOCA 3" tvg-logo="" group-title="TR | SINEMA",TR: DINAMIK LOCA 3
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=185229&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK YESILCAM" tvg-logo="" group-title="TR | SINEMA",TR: DINAMIK YESILCAM
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=185230&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK ANIMASYON" tvg-logo="" group-title="TR | SINEMA",TR: DINAMIK ANIMASYON
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=185231&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK SAVAS" tvg-logo="" group-title="TR | SINEMA",TR: DINAMIK SAVAS
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=185233&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK UZAKDOGU" tvg-logo="" group-title="TR | SINEMA",TR: DINAMIK UZAKDOGU
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=185234&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK KEMAL SUNAL" tvg-logo="" group-title="TR | SINEMA",TR: DINAMIK KEMAL SUNAL
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=185235&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK SENER SEN" tvg-logo="" group-title="TR | SINEMA",TR: DINAMIK SENER SEN
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=185236&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK WESTERN" tvg-logo="" group-title="TR | SINEMA",TR: DINAMIK WESTERN
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=185237&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK MARVEL" tvg-logo="" group-title="TR | SINEMA",TR: DINAMIK MARVEL
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=185238&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK MUZIK" tvg-logo="" group-title="TR | SINEMA",TR: DINAMIK MUZIK
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=185239&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK HABABAM SINIFI" tvg-logo="" group-title="TR | SINEMA",TR: DINAMIK HABABAM SINIFI
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=185240&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK SALON 1" tvg-logo="" group-title="TR | SINEMA",TR: DINAMIK SALON 1
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=185241&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK SALON 2" tvg-logo="" group-title="TR | SINEMA",TR: DINAMIK SALON 2
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=185242&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK SALON 3" tvg-logo="" group-title="TR | SINEMA",TR: DINAMIK SALON 3
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=185243&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK SALON 4" tvg-logo="" group-title="TR | SINEMA",TR: DINAMIK SALON 4
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=185244&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK SALON 5" tvg-logo="" group-title="TR | SINEMA",TR: DINAMIK SALON 5
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=185245&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK SALON 6" tvg-logo="" group-title="TR | SINEMA",TR: DINAMIK SALON 6
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=185246&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK SALON 7" tvg-logo="" group-title="TR | SINEMA",TR: DINAMIK SALON 7
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=185247&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK SALON 8" tvg-logo="" group-title="TR | SINEMA",TR: DINAMIK SALON 8
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=185248&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK SALON 9" tvg-logo="" group-title="TR | SINEMA",TR: DINAMIK SALON 9
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=185249&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DINAMIK SALON 10" tvg-logo="" group-title="TR | SINEMA",TR: DINAMIK SALON 10
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=185250&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: ULTRA HD AKSIYON" tvg-logo="" group-title="TR | SINEMA",TR: ULTRA HD AKSIYON
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=185251&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: ULTRA HD ANIMASYON" tvg-logo="" group-title="TR | SINEMA",TR: ULTRA HD ANIMASYON
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=185252&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: ULTRA HD BILIMKURGU" tvg-logo="" group-title="TR | SINEMA",TR: ULTRA HD BILIMKURGU
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=185253&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: ULTRA HD KEMAL SUNAL" tvg-logo="" group-title="TR | SINEMA",TR: ULTRA HD KEMAL SUNAL
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=185255&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: ULTRA HD KOMEDI" tvg-logo="" group-title="TR | SINEMA",TR: ULTRA HD KOMEDI
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=185256&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: ULTRA HD KORKU" tvg-logo="" group-title="TR | SINEMA",TR: ULTRA HD KORKU
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=185257&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: ULTRA HD SAVAS" tvg-logo="" group-title="TR | SINEMA",TR: ULTRA HD SAVAS
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=185258&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: ULTRA HD TURK" tvg-logo="" group-title="TR | SINEMA",TR: ULTRA HD TURK
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=185259&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: ULTRA ANIMASYON" tvg-logo="" group-title="TR | SINEMA",TR: ULTRA ANIMASYON
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=185305&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM bieN OFFE 1" tvg-logo="" group-title="TR | SINEMA",TR: DREAM bieN OFFE 1
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=185262&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM bieN OFFE 2" tvg-logo="" group-title="TR | SINEMA",TR: DREAM bieN OFFE 2
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=185263&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM bieN OFFE 3" tvg-logo="" group-title="TR | SINEMA",TR: DREAM bieN OFFE 3
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=185264&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM bieN OFFE 4" tvg-logo="" group-title="TR | SINEMA",TR: DREAM bieN OFFE 4
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=185265&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM b**N OFFE 5" tvg-logo="" group-title="TR | SINEMA",TR: DREAM b**N OFFE 5
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=185266&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM b**N OFFE 6" tvg-logo="" group-title="TR | SINEMA",TR: DREAM b**N OFFE 6
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=185267&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM b**N OFFE 7" tvg-logo="" group-title="TR | SINEMA",TR: DREAM b**N OFFE 7
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=185268&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM b**N OFFE 8" tvg-logo="" group-title="TR | SINEMA",TR: DREAM b**N OFFE 8
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=185269&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM b**N OFFE 9" tvg-logo="" group-title="TR | SINEMA",TR: DREAM b**N OFFE 9
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=185270&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM b**N OFFE 10" tvg-logo="" group-title="TR | SINEMA",TR: DREAM b**N OFFE 10
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=185271&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM BILIMKURGU" tvg-logo="" group-title="TR | SINEMA",TR: DREAM BILIMKURGU
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=185272&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM BOX-SET" tvg-logo="" group-title="TR | SINEMA",TR: DREAM BOX-SET
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=185273&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM WESTERN" tvg-logo="" group-title="TR | SINEMA",TR: DREAM WESTERN
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=185302&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM NETFLIX" tvg-logo="" group-title="TR | SINEMA",TR: DREAM NETFLIX
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=185304&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM TURK" tvg-logo="" group-title="TR | SINEMA",TR: DREAM TURK
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=185260&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM SAVAS" tvg-logo="" group-title="TR | SINEMA",TR: DREAM SAVAS
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=185261&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM DRAM" tvg-logo="" group-title="TR | SINEMA",TR: DREAM DRAM
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=185274&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM KEMAL SUNAL" tvg-logo="" group-title="TR | SINEMA",TR: DREAM KEMAL SUNAL
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=185275&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM KOMEDI" tvg-logo="" group-title="TR | SINEMA",TR: DREAM KOMEDI
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=185276&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM AKSIYON" tvg-logo="" group-title="TR | SINEMA",TR: DREAM AKSIYON
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=185277&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM ANIMASYON" tvg-logo="" group-title="TR | SINEMA",TR: DREAM ANIMASYON
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=185278&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM KORKU" tvg-logo="" group-title="TR | SINEMA",TR: DREAM KORKU
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=185279&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM LOCA 1" tvg-logo="" group-title="TR | SINEMA",TR: DREAM LOCA 1
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=185280&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM LOCA 2" tvg-logo="" group-title="TR | SINEMA",TR: DREAM LOCA 2
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=185281&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM LOCA 3" tvg-logo="" group-title="TR | SINEMA",TR: DREAM LOCA 3
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=185282&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEST AKSIYON" tvg-logo="" group-title="TR | SINEMA",TR: BEST AKSIYON
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=185283&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEST TURK" tvg-logo="" group-title="TR | SINEMA",TR: BEST TURK
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=185284&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEST NETFLIX" tvg-logo="" group-title="TR | SINEMA",TR: BEST NETFLIX
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=185221&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEST KOMEDI" tvg-logo="" group-title="TR | SINEMA",TR: BEST KOMEDI
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=185285&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEST KORKU" tvg-logo="" group-title="TR | SINEMA",TR: BEST KORKU
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=185286&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEST IMBD" tvg-logo="" group-title="TR | SINEMA",TR: BEST IMBD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=185287&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEST BILIMKURGU" tvg-logo="" group-title="TR | SINEMA",TR: BEST BILIMKURGU
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=185288&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEST DRAM" tvg-logo="" group-title="TR | SINEMA",TR: BEST DRAM
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=185289&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEST SAVA" tvg-logo="" group-title="TR | SINEMA",TR: BEST SAVA
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=185290&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEST ANASYON" tvg-logo="" group-title="TR | SINEMA",TR: BEST ANASYON
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=185291&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEST YESILCAM" tvg-logo="" group-title="TR | SINEMA",TR: BEST YESILCAM
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=185292&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEST HABABAM SINIFI" tvg-logo="" group-title="TR | SINEMA",TR: BEST HABABAM SINIFI
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=185298&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEST WESTERN" tvg-logo="" group-title="TR | SINEMA",TR: BEST WESTERN
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=185232&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEST LOCA 1" tvg-logo="" group-title="TR | SINEMA",TR: BEST LOCA 1
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=185293&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEST LOCA 2" tvg-logo="" group-title="TR | SINEMA",TR: BEST LOCA 2
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=185294&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEST LOCA 3" tvg-logo="" group-title="TR | SINEMA",TR: BEST LOCA 3
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=185295&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEST SALON 1" tvg-logo="" group-title="TR | SINEMA",TR: BEST SALON 1
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=185299&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEST SALON 2" tvg-logo="" group-title="TR | SINEMA",TR: BEST SALON 2
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=185296&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEST SALON 3" tvg-logo="" group-title="TR | SINEMA",TR: BEST SALON 3
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=185297&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: BOX OFFICE INFO" tvg-logo="https://pbs.twimg.com/profile_images/1452346972443086849/gO0QIhJQ_400x400.jpg" group-title="TR | BOX OFFICE",TR: BOX OFFICE INFO
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=342365&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: BOX OFFICE SELECT 1" tvg-logo="https://pbs.twimg.com/profile_images/1452346972443086849/gO0QIhJQ_400x400.jpg" group-title="TR | BOX OFFICE",TR: BOX OFFICE SELECT 1
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=342366&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: BOX OFFICE SELECT 2" tvg-logo="https://pbs.twimg.com/profile_images/1452346972443086849/gO0QIhJQ_400x400.jpg" group-title="TR | BOX OFFICE",TR: BOX OFFICE SELECT 2
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=342367&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: BOX OFFICE SELECT 3" tvg-logo="https://pbs.twimg.com/profile_images/1452346972443086849/gO0QIhJQ_400x400.jpg" group-title="TR | BOX OFFICE",TR: BOX OFFICE SELECT 3
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=342368&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: BOX OFFICE SELECT 4" tvg-logo="https://pbs.twimg.com/profile_images/1452346972443086849/gO0QIhJQ_400x400.jpg" group-title="TR | BOX OFFICE",TR: BOX OFFICE SELECT 4
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=342369&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: BOX OFFICE SELECT 5" tvg-logo="https://pbs.twimg.com/profile_images/1452346972443086849/gO0QIhJQ_400x400.jpg" group-title="TR | BOX OFFICE",TR: BOX OFFICE SELECT 5
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=342370&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: BOX OFFICE SELECT 6" tvg-logo="https://pbs.twimg.com/profile_images/1452346972443086849/gO0QIhJQ_400x400.jpg" group-title="TR | BOX OFFICE",TR: BOX OFFICE SELECT 6
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=342371
+#EXTINF:-1 tvg-id="" tvg-name="TR: BOX OFFICE SELECT 7" tvg-logo="https://pbs.twimg.com/profile_images/1452346972443086849/gO0QIhJQ_400x400.jpg" group-title="TR | BOX OFFICE",TR: BOX OFFICE SELECT 7
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=342372
+#EXTINF:-1 tvg-id="" tvg-name="TR: BOX OFFICE SELECT 8" tvg-logo="https://pbs.twimg.com/profile_images/1452346972443086849/gO0QIhJQ_400x400.jpg" group-title="TR | BOX OFFICE",TR: BOX OFFICE SELECT 8
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=342373
+#EXTINF:-1 tvg-id="" tvg-name="TR: BOX OFFICE SELECT 9" tvg-logo="https://pbs.twimg.com/profile_images/1452346972443086849/gO0QIhJQ_400x400.jpg" group-title="TR | BOX OFFICE",TR: BOX OFFICE SELECT 9
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=342374
+#EXTINF:-1 tvg-id="" tvg-name="TR: BOX OFFICE SELECT 10" tvg-logo="https://pbs.twimg.com/profile_images/1452346972443086849/gO0QIhJQ_400x400.jpg" group-title="TR | BOX OFFICE",TR: BOX OFFICE SELECT 10
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=342375
+#EXTINF:-1 tvg-id="" tvg-name="#### TURK SİNEMA ####" tvg-logo="" group-title="TR | SINEMA",#### TURK SİNEMA ####
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=123&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: BABY TV" tvg-logo="" group-title="TR | COCUK",TR: BABY TV
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=349563&extension=m3u8
+#EXTINF:-1 tvg-id="smartcocuk.tr" tvg-name="TR: SMART COCUK HD" tvg-logo="" group-title="TR | COCUK",TR: SMART COCUK HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=425&extension=m3u8
+#EXTINF:-1 tvg-id="cartoonnetwork.tr" tvg-name="TR: CARTOON NETWORK HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cartoon_network_global.png" group-title="TR | COCUK",TR: CARTOON NETWORK HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=426&extension=m3u8
+#EXTINF:-1 tvg-id="360.tr" tvg-name="TR: DISNEY CHANNEL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney_channel_global.png" group-title="TR | COCUK",TR: DISNEY CHANNEL HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=427&extension=m3u8
+#EXTINF:-1 tvg-id="trtcocuk.tr" tvg-name="TR: TRT ÇOCUK HD+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TRT_%C3%87ocuk_kurumsal_logo.png/1280px-TRT_%C3%87ocuk_kurumsal_logo.png" group-title="TR | COCUK",TR: TRT ÇOCUK HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=429&extension=m3u8
+#EXTINF:-1 tvg-id="trtcocuk.tr" tvg-name="TR: TRT COCUK HD" tvg-logo="" group-title="TR | COCUK",TR: TRT COCUK HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=186668&extension=m3u8
+#EXTINF:-1 tvg-id="nickelodeon.tr" tvg-name="TR: NICKELODEON HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nickelodeon_us.png" group-title="TR | COCUK",TR: NICKELODEON HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=430&extension=m3u8
+#EXTINF:-1 tvg-id="Nick Jr.-TR" tvg-name="TR: NICK JR HD HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nick_jr_us.png" group-title="TR | COCUK",TR: NICK JR HD HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=431&extension=m3u8
+#EXTINF:-1 tvg-id="Disney Junior-TR" tvg-name="TR: DISNEY JR HD" tvg-logo="" group-title="TR | COCUK",TR: DISNEY JR HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=432&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: CBEEBiES HD" tvg-logo="" group-title="TR | COCUK",TR: CBEEBiES HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=434&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: BABY TV HD" tvg-logo="" group-title="TR | COCUK",TR: BABY TV HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=436&extension=m3u8
+#EXTINF:-1 tvg-id="BOOMERANG HD-TR" tvg-name="TR: BOOMERANG HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/boomerang_global.png" group-title="TR | COCUK",TR: BOOMERANG HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=437&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: MINICA GO" tvg-logo="" group-title="TR | COCUK",TR: MINICA GO
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=438&extension=m3u8
+#EXTINF:-1 tvg-id="minikacocuk.tr" tvg-name="TR: MINIKA COCUK" tvg-logo="" group-title="TR | COCUK",TR: MINIKA COCUK
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=439&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: KIDSAX KUKULI" tvg-logo="" group-title="TR | COCUK",TR: KIDSAX KUKULI
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219394&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: KIDSAX NILOYA" tvg-logo="" group-title="TR | COCUK",TR: KIDSAX NILOYA
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219395&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: KIDSAX PEPE" tvg-logo="" group-title="TR | COCUK",TR: KIDSAX PEPE
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219396&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: KIDSAX RAFADAN TAYFA" tvg-logo="" group-title="TR | COCUK",TR: KIDSAX RAFADAN TAYFA
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219398&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: KIDSAX SIRINLER " tvg-logo="" group-title="TR | COCUK",TR: KIDSAX SIRINLER 
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219397&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: KIDSAX MASHA İLE KOCA AYI " tvg-logo="" group-title="TR | COCUK",TR: KIDSAX MASHA İLE KOCA AYI 
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219399&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX COCUK" tvg-logo="" group-title="TR | COCUK",TR: FILMAX COCUK
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=113524&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX COCUK 1" tvg-logo="" group-title="TR | COCUK",TR: FILMAX COCUK 1
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=121373&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:  FILMAX COCUK 2" tvg-logo="" group-title="TR | COCUK",TR:  FILMAX COCUK 2
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=450&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX COCUK 3" tvg-logo="" group-title="TR | COCUK",TR: FILMAX COCUK 3
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=121374&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Pokemon HD+" tvg-logo="" group-title="TR | COCUK",TR: DIZIAX Pokemon HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=451&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Masa İle Koca Ayı HD+" tvg-logo="" group-title="TR | COCUK",TR: DIZIAX Masa İle Koca Ayı HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=65778&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Ari Maya HD+" tvg-logo="" group-title="TR | COCUK",TR: DIZIAX Ari Maya HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=67843&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Cocuk Alvinnnn HD+" tvg-logo="" group-title="TR | COCUK",TR: DIZIAX Cocuk Alvinnnn HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=124296&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Cocuk Heidi HD+" tvg-logo="" group-title="TR | COCUK",TR: DIZIAX Cocuk Heidi HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=124297&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Cocuk Patron Bebek HD+" tvg-logo="" group-title="TR | COCUK",TR: DIZIAX Cocuk Patron Bebek HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=124298&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Cocuk Müffetiş Gadget HD+" tvg-logo="" group-title="TR | COCUK",TR: DIZIAX Cocuk Müffetiş Gadget HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=124299&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Cocuk Jurassic World HD+" tvg-logo="" group-title="TR | COCUK",TR: DIZIAX Cocuk Jurassic World HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=124300&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Cocuk Transformers HD+" tvg-logo="" group-title="TR | COCUK",TR: DIZIAX Cocuk Transformers HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=124301&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Cocuk Sonic Boom HD+" tvg-logo="" group-title="TR | COCUK",TR: DIZIAX Cocuk Sonic Boom HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=124302&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Cocuk Wakfu HD+" tvg-logo="" group-title="TR | COCUK",TR: DIZIAX Cocuk Wakfu HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=124303&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Cocuk Hello Ninja HD+" tvg-logo="" group-title="TR | COCUK",TR: DIZIAX Cocuk Hello Ninja HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=124306&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Cocuk Troll Hunter HD+" tvg-logo="" group-title="TR | COCUK",TR: DIZIAX Cocuk Troll Hunter HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=124304&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Cocuk Go Go Cory Carson HD+" tvg-logo="" group-title="TR | COCUK",TR: DIZIAX Cocuk Go Go Cory Carson HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=124305&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Cocuk Kral Sakir HD+" tvg-logo="" group-title="TR | COCUK",TR: DIZIAX Cocuk Kral Sakir HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=124307&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Cocuk LEGO Ninjago Masters of Spinjitzu HD+" tvg-logo="" group-title="TR | COCUK",TR: DIZIAX Cocuk LEGO Ninjago Masters of Spinjitzu HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=124308&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Çocuk KUCUK BHEEM MACERALARİ" tvg-logo="" group-title="TR | COCUK",TR: DIZIAX Çocuk KUCUK BHEEM MACERALARİ
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=142091&extension=m3u8
+#EXTINF:-1 tvg-id="Disney XD-TR" tvg-name="TR: DIZIAX Aslan HD+" tvg-logo="" group-title="TR | COCUK",TR: DIZIAX Aslan HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=433&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Cocuk 1 HD+" tvg-logo="" group-title="TR | COCUK",TR: DIZIAX Cocuk 1 HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=435&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Elif ve Arkadaslari HD+" tvg-logo="" group-title="TR | COCUK",TR: DIZIAX Elif ve Arkadaslari HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=443&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZIAX Rafadan Tayfa HD+" tvg-logo="" group-title="TR | COCUK",TR: DIZIAX Rafadan Tayfa HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=445&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TOM & JERRY" tvg-logo="" group-title="TR | COCUK",TR: TOM & JERRY
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=440&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: PIJAMA MASKELILER TV" tvg-logo="" group-title="TR | COCUK",TR: PIJAMA MASKELILER TV
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=441&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: SiRiNLER TV" tvg-logo="" group-title="TR | COCUK",TR: SiRiNLER TV
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=442&extension=m3u8
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: DISNEY JR HD+" tvg-logo="" group-title="TR | COCUK",TR: DISNEY JR HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=444&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cizgi Film HD" tvg-logo="" group-title="TR | COCUK",TR: Cizgi Film HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=446&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: KUKULI TV" tvg-logo="" group-title="TR | COCUK",TR: KUKULI TV
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=447&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Niloya HD+" tvg-logo="" group-title="TR | COCUK",TR: Niloya HD+
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=448&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: PEPEE TV" tvg-logo="" group-title="TR | COCUK",TR: PEPEE TV
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=195213&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX Animasyon HD" tvg-logo="" group-title="TR | COCUK",TR: MAX Animasyon HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219318&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX Animasyon 2 HD" tvg-logo="" group-title="TR | COCUK",TR: MAX Animasyon 2 HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=219319&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Filmax Animation HD" tvg-logo="" group-title="TR | COCUK",TR: Filmax Animation HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=452&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Animation 1 HD" tvg-logo="" group-title="TR | COCUK",TR: Animation 1 HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=453&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Animation 2 HD" tvg-logo="" group-title="TR | COCUK",TR: Animation 2 HD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=454&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: BOOBA TV" tvg-logo="" group-title="TR | COCUK",TR: BOOBA TV
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=191901&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: 64 KARE ULKESI" tvg-logo="" group-title="TR | COCUK",TR: 64 KARE ULKESI
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=260507&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: ADIBESA MASALLARI" tvg-logo="" group-title="TR | COCUK",TR: ADIBESA MASALLARI
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=260508&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: ANKA TV" tvg-logo="" group-title="TR | COCUK",TR: ANKA TV
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=260509&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: ASLAN TV" tvg-logo="" group-title="TR | COCUK",TR: ASLAN TV
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=260510&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: BARBAROS TV" tvg-logo="" group-title="TR | COCUK",TR: BARBAROS TV
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=260511&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEN 10 TV" tvg-logo="" group-title="TR | COCUK",TR: BEN 10 TV
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=260512&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: BULMACA KULESI" tvg-logo="" group-title="TR | COCUK",TR: BULMACA KULESI
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=260513&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: CAILLOU TV" tvg-logo="" group-title="TR | COCUK",TR: CAILLOU TV
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=260514&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: CANIM KARDESIM TV" tvg-logo="" group-title="TR | COCUK",TR: CANIM KARDESIM TV
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=260515&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: CHICKY TV" tvg-logo="" group-title="TR | COCUK",TR: CHICKY TV
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=260516&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: CILGIN ORMAN TV" tvg-logo="" group-title="TR | COCUK",TR: CILGIN ORMAN TV
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=260517&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: ILAHI COCUK TV" tvg-logo="" group-title="TR | COCUK",TR: ILAHI COCUK TV
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=260518&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: DORU TV" tvg-logo="" group-title="TR | COCUK",TR: DORU TV
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=260519&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: EGE ILE GAGA" tvg-logo="" group-title="TR | COCUK",TR: EGE ILE GAGA
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=260520&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: ELIF VE ARKADASLARI" tvg-logo="" group-title="TR | COCUK",TR: ELIF VE ARKADASLARI
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=260521&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: ELIFIN RUYASI" tvg-logo="" group-title="TR | COCUK",TR: ELIFIN RUYASI
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=260522&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: GIZEMLER DIYARI" tvg-logo="" group-title="TR | COCUK",TR: GIZEMLER DIYARI
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=260523&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: HAPSUU TV" tvg-logo="" group-title="TR | COCUK",TR: HAPSUU TV
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=260524&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: ITFAYECI SAM" tvg-logo="" group-title="TR | COCUK",TR: ITFAYECI SAM
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=260525&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: KARE TV" tvg-logo="" group-title="TR | COCUK",TR: KARE TV
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=260526&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: KELOGLAN TV" tvg-logo="" group-title="TR | COCUK",TR: KELOGLAN TV
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=260527&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: KOSTEBEKGILLER TV" tvg-logo="" group-title="TR | COCUK",TR: KOSTEBEKGILLER TV
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=260528&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: KRAL SAKIR TV" tvg-logo="" group-title="TR | COCUK",TR: KRAL SAKIR TV
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=260529&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: KUKILI TV" tvg-logo="" group-title="TR | COCUK",TR: KUKILI TV
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=260530&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: LEYLEK KARDES" tvg-logo="" group-title="TR | COCUK",TR: LEYLEK KARDES
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=260531&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: LIMON ZEYTIN" tvg-logo="" group-title="TR | COCUK",TR: LIMON ZEYTIN
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=260532&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: MASA KOCAAYI" tvg-logo="" group-title="TR | COCUK",TR: MASA KOCAAYI
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=260533&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: MIMOCAN TV" tvg-logo="" group-title="TR | COCUK",TR: MIMOCAN TV
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=260534&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: NASREDDIN HOCA" tvg-logo="" group-title="TR | COCUK",TR: NASREDDIN HOCA
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=260535&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: NILOYA TV" tvg-logo="" group-title="TR | COCUK",TR: NILOYA TV
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=260536&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: OSCAR COLLERDE" tvg-logo="" group-title="TR | COCUK",TR: OSCAR COLLERDE
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=260537&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: PAK PIRPIR TV" tvg-logo="" group-title="TR | COCUK",TR: PAK PIRPIR TV
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=260538&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: PAW PETROL" tvg-logo="" group-title="TR | COCUK",TR: PAW PETROL
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=260539&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: PEPPA PIG" tvg-logo="" group-title="TR | COCUK",TR: PEPPA PIG
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=260540&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: PEPE TV" tvg-logo="" group-title="TR | COCUK",TR: PEPE TV
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=260541&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: PIJAMA MASKE" tvg-logo="" group-title="TR | COCUK",TR: PIJAMA MASKE
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=260542&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: PIRIL TV" tvg-logo="" group-title="TR | COCUK",TR: PIRIL TV
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=260543&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: PISI TV" tvg-logo="" group-title="TR | COCUK",TR: PISI TV
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=260544&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: POKEMON TV" tvg-logo="" group-title="TR | COCUK",TR: POKEMON TV
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=260545&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: RAFADAN TAYFA" tvg-logo="" group-title="TR | COCUK",TR: RAFADAN TAYFA
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=260546&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: RUYA TRENI" tvg-logo="" group-title="TR | COCUK",TR: RUYA TRENI
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=260547&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: SEF ROKKA TV" tvg-logo="" group-title="TR | COCUK",TR: SEF ROKKA TV
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=260548&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: SEKER HOCA" tvg-logo="" group-title="TR | COCUK",TR: SEKER HOCA
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=260549&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: SERCE KUS TV" tvg-logo="" group-title="TR | COCUK",TR: SERCE KUS TV
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=260550&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: SEVIMLI DOSTLAR" tvg-logo="" group-title="TR | COCUK",TR: SEVIMLI DOSTLAR
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=260551&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: SIRINLER TV" tvg-logo="" group-title="TR | COCUK",TR: SIRINLER TV
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=260552&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: SPIDERMAN TV" tvg-logo="" group-title="TR | COCUK",TR: SPIDERMAN TV
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=260553&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TAVSAN MOMO" tvg-logo="" group-title="TR | COCUK",TR: TAVSAN MOMO
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=260554&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TAYO TV" tvg-logo="" group-title="TR | COCUK",TR: TAYO TV
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=260555&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: VIKINGLER TV" tvg-logo="" group-title="TR | COCUK",TR: VIKINGLER TV
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=260556&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: ALVIN" tvg-logo="" group-title="TR | COCUK",TR: ALVIN
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=260557&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: ANGRY BIRDS" tvg-logo="" group-title="TR | COCUK",TR: ANGRY BIRDS
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=260558&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: GABBY" tvg-logo="" group-title="TR | COCUK",TR: GABBY
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=260559&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: MUFFETIS GADGET" tvg-logo="" group-title="TR | COCUK",TR: MUFFETIS GADGET
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=260560&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: HEIDI" tvg-logo="" group-title="TR | COCUK",TR: HEIDI
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=260561&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: JURASSIC WORLD" tvg-logo="" group-title="TR | COCUK",TR: JURASSIC WORLD
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=260562&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAYMUNLAR KRALI KONG" tvg-logo="" group-title="TR | COCUK",TR: MAYMUNLAR KRALI KONG
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=260563&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: KONUSAN TOM" tvg-logo="" group-title="TR | COCUK",TR: KONUSAN TOM
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=260564&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: SONİC BOOM" tvg-logo="" group-title="TR | COCUK",TR: SONİC BOOM
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=260565&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRANSFORMERS" tvg-logo="" group-title="TR | COCUK",TR: TRANSFORMERS
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=260566&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: TROL AVCILARI" tvg-logo="" group-title="TR | COCUK",TR: TROL AVCILARI
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=260567&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: WAKFU" tvg-logo="" group-title="TR | COCUK",TR: WAKFU
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=260568&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: YILDIZ KIZ" tvg-logo="" group-title="TR | COCUK",TR: YILDIZ KIZ
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=260569&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="#### TURK COCUK ####" tvg-logo="" group-title="TR | COCUK",#### TURK COCUK ####
+http://sekesanbr.bio:8080/play/live.php?mac=00:1A:79:36:F5:47&stream=122&extension=m3u8
