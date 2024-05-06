@@ -1,0 +1,13 @@
+# YouTube Canlı Yayın M3U8 URL Alma
+
+Bu Python betiği, verilen bir YouTube canlı yayınının m3u8 URL'sini almak için kullanılır.
+
+## Kullanım
+1. `get_m3u8_url.py` dosyasını çalıştırın.
+2. Kod içinde `youtube_url` değişkenine istediğiniz YouTube canlı yayını URL'sini yerleştirin.
+3. Kodu çalıştırın.
+4. M3U8 URL, ekrana yazdırılacaktır.
+
+## Gereksinimler
+- Python 3
+- youtube_dl kütüphanesi
